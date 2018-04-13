@@ -1,4 +1,10 @@
-## Duplicate
+---
+title: "Duplicating"
+weight: 10
+---
+
+<!-- ## Duplicate -->
+
 The Duplicate action essentially combines the Copy and Paste actions and intelligently places the pasted selection based on the musical timing of the selection in the Song. Choose Duplicate in the Edit menu or press [D] on the keyboard to duplicate the current selection. The duplicated Event is always placed after the original Event, and it is automatically selected once duplicated. As with the other editing actions, Duplicate can apply to any number of currently selected Events.
 
 A good use of the Duplicate command is to quickly create copies of a loop across a region in a Song by selecting an Event and repeatedly pressing [D] on the keyboard. Another interesting use involves selecting very short regions within a loop, using the Range tool, and duplicating them several times, consecutively, in order to create a stutter effect that is popular in electronic music.
@@ -13,5 +19,5 @@ If you later decide you wish to edit one of the Shared copies of a Part individu
 
 ---
 
-*Text reproduced from the official Studio One Version 3.3.0 Reference Manual*  
-*Copyright © 2016 PreSonus Audio Electronics, Inc*
+_Text reproduced from the official Studio One Version 3.3.0 Reference Manual_  
+_Copyright © 2016 PreSonus Audio Electronics, Inc_

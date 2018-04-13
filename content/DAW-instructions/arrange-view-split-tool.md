@@ -1,9 +1,16 @@
+---
+title: "Arrange View Split Tools"
+weight: 10
+---
+
 # Arrange View Mouse Tools
+
 The mouse tools allow direct interaction with Events, using the mouse. It is helpful to remember that actions done using the mouse tools can be undone at any time, so feel free to explore them. You can click the right mouse button in any open space in the Arrange or Edit views to open a list of mouse tools and editing commands. Choose the desired tool or command by clicking it with the left mouse button. You can also click the middle mouse button (or scroll wheel) to display an expanded list of tools to choose from, including all Paint tool shapes.
 
-![Split Tool](Images/studio-one-arrange-view-split-tool.jpeg)
+![Split Tool](/Images/studio-one-arrange-view-split-tool.jpeg)
 
 ## Split Tool
+
 Using the Split tool, single Events can be split into multiple Events. Click on the Split Tool button, or press [number 3] on the keyboard to select the Split tool.
 
 With the Split tool selected, a vertical and horizontal line is drawn near the current mouse-cursor position. The vertical line indicates the exact time position of the Split tool, while the horizontal line underscores the Track on which the Event to be split resides. The Split tool is directly affected by the current Snap settings.
@@ -24,5 +31,5 @@ To split an Instrument Part and split (rather than truncate) any notes that cros
 
 ---
 
-*Text reproduced from the official Studio One Version 3.3.0 Reference Manual*  
-*Copyright © 2016 PreSonus Audio Electronics, Inc*
+_Text reproduced from the official Studio One Version 3.3.0 Reference Manual_  
+_Copyright © 2016 PreSonus Audio Electronics, Inc_

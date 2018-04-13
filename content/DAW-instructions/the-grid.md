@@ -1,11 +1,17 @@
-# The Grid
+---
+title: "The Grid"
+weight: 10
+---
+
+<!-- # The Grid -->
+
 The Arrangement grid is comprised of the ticks in the timeline and the vertical lines extending from those ticks through the background of the Arrangement. This grid uses the Timebase setting as the basis for its display. The Timebase settings are Seconds, Samples, Bars, and Frames, and they determine the behavior of Event and tool snapping. The Timebase can be changed at any time, without directly affecting the arrangement.
 
 Perhaps the most common Timebase setting is Bars, which display time in a musical format of bars and beats. With this Timebase setting, the grid is determined by the settings in the Quantize panel.
 
 ### Quantize Panel
 
-![Quantize Panel](Images/QuantizePanel_633x25.png)
+![Quantize Panel](/images/QuantizePanel_633x25.png)
 
 The Quantize panel can be opened from the toolbar by clicking on the Quantize Panel button, or by selecting Quantize from the View/Additional Views menu. The Quantize panel can be detached and freely placed on the screen. In this panel, you can edit all settings related to the Quantize grid that are displayed in the Arrangement. From left to right in the panel, you can see areas for Grid or Groove mode; note-value selection; note grouping and Swing amount; Start, End, Velocity, and Range percentages; and preset management.
 
@@ -37,5 +43,5 @@ The presets area of the Quantize panel allows you to quickly switch between up t
 
 ---
 
-*Text and images reproduced from the official Studio One Version 3.3.0 Reference Manual*  
-*Copyright © 2016 PreSonus Audio Electronics, Inc*
+_Text and images reproduced from the official Studio One Version 3.3.0 Reference Manual_  
+_Copyright © 2016 PreSonus Audio Electronics, Inc_

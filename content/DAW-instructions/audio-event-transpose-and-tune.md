@@ -1,4 +1,10 @@
-## Audio Event Transpose and Tune
+---
+title: "Audio Event Transpose and Tune"
+weight: 10
+---
+
+<!-- ## Audio Event Transpose and Tune -->
+
 The ability to transpose and fine-tune audio adds a lot of flexibility when working with audio files. For instance, if you have a keyboard loop collection in which every loop is in the key of C, being able to transpose these loops to any other key opens up many possibilities.
 
 In Studio One, transposing and tuning are a part of the same set of advanced algorithms as timestretching, so the quality is extremely high.
@@ -11,9 +17,9 @@ Any number of Events can be selected and transposed or tuned simultaneously, but
 
 The Transpose and Tune fields are also available by right-clicking [Cmd-clicking on some Macs] the desired audio Event.
 
-![Event Inspector](Images/audio-event-inspector.png)
+![Event Inspector](/Images/audio-event-inspector.png)
 
 ---
 
-*Text and image reproduced from the official Studio One Version 3.3.0 Reference Manual*
-*Copyright © 2016 PreSonus Audio Electronics, Inc*
+_Text and image reproduced from the official Studio One Version 3.3.0 Reference Manual_
+_Copyright © 2016 PreSonus Audio Electronics, Inc_
