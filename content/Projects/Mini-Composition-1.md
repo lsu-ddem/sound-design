@@ -17,7 +17,7 @@ For this project, you will compose a 1:00-2:00 piece using techniques from the M
 
 1.  Only use audio samples (no virtual instruments). The source audio material for the composition may be retrieved from an online repository such as Freesound.org or the University of Iowa Musical Instrument Samples, taken from other available recordings (commercial or otherwise), or recorded yourself using a portable recorder or other recording device. Do not use pre-made loops from the Studio One library, or from any other pre-packaged loop library. You may use as many sources as you like, but I would suggest limiting yourself to a few sources and achieving variety through creative editing techniques.
 2.  You may only use the following techniques: cutting/splicing, fading, speed and pitch manipulation, reversing, and volume and pan adjustment using the mixer and automation. In other words, no effects, no virtual instruments or MIDI sequencing, just audio editing and basic mixing.
-3.  When you are finished, ensure that your project has the name "YourFirstNameYourLastName-MiniComp1" and submit using the procedure in the [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
+3.  When you are finished, ensure that your project has the name "YourFirstNameYourLastName-MiniComp1" and submit using the procedure in the [Basic Submission Instructions]({{% relref "DAW-instructions/basic-submission-instructions.md#submitting-a-song" %}}) document.
 4.  As always, save a backup copy on your personal storage media.
 
 ## Rubric

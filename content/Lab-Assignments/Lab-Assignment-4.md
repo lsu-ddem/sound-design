@@ -41,7 +41,7 @@ Simply import the raw video into iMovie, create a new project, insert your raw v
 
 #### Importing video into Studio One
 
-Importing video into Studio One is generally as simple as dragging the video file into the Studio One arrange window. For a more thorough explanation, see the [Import Video](/DAW-instructions/import-video.md) instructions. Once a video is in your timeline, you can simply compose your soundtrack along with the video.
+Importing video into Studio One is generally as simple as dragging the video file into the Studio One arrange window. For a more thorough explanation, see the [Import Video]({{% relref "DAW-instructions/import-video.md" %}}) instructions. Once a video is in your timeline, you can simply compose your soundtrack along with the video.
 For more help or further details, see [this instructional video](https://youtu.be/JdXaJqNCl1I) or search for "video" inside the Studio One reference manual.
 Keep in mind that once your soundtrack is finished, you will NOT actually be exporting the video from Studio One, only the new audio mixdown. You will need to use iMovie again to align your finished audio mixdown with the video file.
 _NOTE: This is one of the few instances in which the Pro version of Studio One is required for your assignment. Video import and the video track playback window are not available in the Artist or Prime (free) versions.

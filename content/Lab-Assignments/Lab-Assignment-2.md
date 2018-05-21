@@ -22,7 +22,7 @@ Preparation of a mobile audio recording app of your choice on your personal mobi
 
 Review the following document from our course materials:
 
-* [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md)
+* [Basic Submission Instructions]({{% relref "DAW-instructions/basic-submission-instructions.md" %}})
 
 ---
 
@@ -31,8 +31,8 @@ Review the following document from our course materials:
 * Field recording using a mobile recorder
 * Importing audio from a device
 * Event-based audio editing techniques and tools within the arrange window
-  * Creating and editing [Fades with the Arrow Tool](DAW-instructions/arrange-view-arrow-tool.md#adjust-audio-event-volume-envelopes)
-  * Optional: [Strip Silence](DAW-instructions/strip-silence.md)
+  * Creating and editing [Fades with the Arrow Tool]({{% relref "DAW-instructions/arrange-view-arrow-tool.md#adjust-audio-event-volume-envelopes" %}})
+  * Optional: [Strip Silence]({{% relref "DAW-instructions/strip-silence.md" %}})
 
 ---
 
@@ -56,5 +56,5 @@ Review the following document from our course materials:
 
 5.  Look for interesting moments or sections in your files and isolate them by splicing and deleting undesired content. Tighten up the remaining audio regions by adding short Fades to the start and end of every region.  
     _Optional: Depending on the source material, the "Strip Silence" function may work well to automate the first stage of this process. You will still need to manually clean up the regions that it leaves behind._
-6.  When you are finished, submit your project using the procedure in the [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
+6.  When you are finished, submit your project using the procedure in the [Basic Submission Instructions]({{% relref "DAW-instructions/basic-submission-instructions.md#submitting-a-song" %}}) document.
 7.  As always, save a backup copy on your personal storage media.
