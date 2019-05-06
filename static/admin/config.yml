@@ -13,7 +13,15 @@ collections:
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
+  # Other content 
+  # Daw Instructions 
+  - name: "p5js"
+    label: "p5js"
+    folder: "content/DAW-instructions" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 
 
