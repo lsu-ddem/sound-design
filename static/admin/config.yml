@@ -15,13 +15,20 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   # Other content 
   # Daw Instructions 
-  - name: "p5js"
-    label: "p5js"
+  - name: "daw-instructions"
+    label: "Daw Instructions"
     folder: "content/DAW-instructions" 
     create: true 
     fields: 
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "lab-assignments"
+    label: "Lab Assignments"
+    folder: "content/Lab-Assignments" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}         
 
 
 
