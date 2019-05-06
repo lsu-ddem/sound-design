@@ -9,7 +9,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/tatecarson/lsu-ddem-new"
+  editURL = "https://sound-design.lsupathways.org/admin"
   description = "Educational material for LSU Programming Digital Media"
   author = "Tate Carson"
   showVisitedLinks = true
