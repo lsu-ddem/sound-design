@@ -9,8 +9,6 @@ title: Lab Assignment 1
 
 #### Prerequisites
 
-Test 
-
 Review the following sections in the Studio One Reference Manual:
 
 * Fundamentals>Drag-and-Drop
