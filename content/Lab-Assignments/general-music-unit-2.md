@@ -7,43 +7,47 @@ title: General Music Unit 2
 
 - - -
 
-**Basic Theory**
+**Intermediate Theory**
 
-Pitch (from a scientific perspective)
+Scales: 
 
-The overtone Series 
-
-Scales: C major, F major, G major
-
-* Solfege
-* Why 7 letters and 12 notes
-* Introduction to key signatures
+* All 12 major scales
+* Introduction to minor scales
+* All 12 key signatures
 * Intervals  
-  * Half steps and whole steps
+  *  All intervals within the octave
 
 Harmony
 
-* Major triads
-* Minor triads
+* All major and minor triads
+* Seventh Chords
+* Chord progressions
+  * V  I relationship
+  * Tonic, dominant, subdominant
+  * Circle of fifths
+  * Blues form
+  * I  vi  ii  V progression (and typical substitutions)
+* Introduction to roman numeral analysis
 
-**Intro to Reading and Writing Music**
+**Intermediate Reading and Writing Music**
 
 Rhythm
 
-* Quarter, half, whole, equivalent rests
+* Eighth notes, triplets, sixteenth notes, equivalent rests
 * Exercise: www.musictheory.net/exercises
 
 Pitch
 
-* Staff (lines and spaces)
-* Treble Clef
-* Exercise: have students make their own acronyms for lines and spaces. 
-* Have students import the midi file from a melody they like then learn to perform it based on the score.  (have some go to examples that are easy)  Use www.noteflight.com to visualize.  Editing or extracting the melody may be necessary.
-* Basic dynamic and expression markings
+* Grand Staff
+* Exercise: have students make their own acronyms for lines and spaces in bass clef.
+  Have students import the midi file from a melody with left hand accompaniment then learn to perform it based on the score.  (have some go to examples that are easy)  Use www.noteflight.com to visualize.  
+* Ledger lines
+
+Intermediate dynamic and expression markings
 
 **Ear Training**
 
-* Ear training introduction
+* Unisons, octaves, thirds, fifths  
 * High vs low Online game https://www.musictheory.net
 
 - - -
