@@ -20,8 +20,8 @@ Scales:
   * Augmented
   * Others 
   * Introduction to 12 tone and atonal music
-    Intervals  
-* All intervals within the octave including extensions (ie 9ths, 11ths, 13ths, and alterations) 
+* Intervals  
+  * All intervals within the octave including extensions (ie 9ths, 11ths, 13ths, and alterations) 
 
 Harmony
 
