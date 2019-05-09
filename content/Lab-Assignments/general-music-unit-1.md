@@ -1,8 +1,6 @@
 ---
 title: General Music Unit 1
 ---
-
-
 <!-- # General Music Unit 1 -->
 
 ## General Music Unit 1
@@ -29,18 +27,21 @@ Review the following document from our course materials:
 
 #### Learning Objectives
 
-* Basic theory
-  * Pitch defined.
-  * Overtone series defined. (video)
-  * Scales. Major C, F G
-    * solfege
-    * Why 7 letters and 12 notes?
-    * Introduction to key signatures
-  * Intervals.  
-    * Half steps and whole steps
-  * Chords 
-    * Major triads
-    * Minor triads
+Basic theory
+
+* Pitch defined.
+* Overtone series defined. (video)
+
+Scales. Major C, F G
+
+* solfege
+* Why 7 letters and 12 notes?
+* Introduction to key signatures
+* Intervals.  
+  * Half steps and whole steps
+* Chords 
+  * Major triads
+  * Minor triads
 * Intro to reading 
   * Rhythm.
     * quarter, half, whole, equivalent rests
@@ -55,14 +56,6 @@ Review the following document from our course materials:
 * Ear Training
   * Ear training introduction
   * High vs low (Online game https://www.musictheory.net)
-
-
-
-
-
-
-
-
 
 - - -
 
