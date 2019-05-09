@@ -14,8 +14,8 @@ Scales:
 * All 12 major scales
 * Introduction to minor scales
 * All 12 key signatures
-* Intervals  
-  *  All intervals within the octave
+Intervals  
+*  All intervals within the octave
 
 Harmony
 
