@@ -14,8 +14,8 @@ Scales:
 * All 12 major scales
 * Introduction to minor scales
 * All 12 key signatures
-Intervals  
-*  All intervals within the octave
+  Intervals  
+* All intervals within the octave
 
 Harmony
 
@@ -35,16 +35,16 @@ Harmony
 Rhythm
 
 * Eighth notes, triplets, sixteenth notes, equivalent rests
-* Exercise: www.musictheory.net/exercises
+* Exercise: https://www.musictheory.net/exercises
 
 Pitch
 
 * Grand Staff
 * Exercise: have students make their own acronyms for lines and spaces in bass clef.
-  Have students import the midi file from a melody with left hand accompaniment then learn to perform it based on the score.  (have some go to examples that are easy)  Use www.noteflight.com to visualize.  
+  Have students import the midi file from a melody with left hand accompaniment then learn to perform it based on the score.  (have some go to examples that are easy)  Use https://www.noteflight.com to visualize.  
 * Ledger lines
 * Accidentals
-Intermediate dynamic and expression markings
+  Intermediate dynamic and expression markings
 
 **Ear Training**
 
@@ -57,19 +57,19 @@ Intermediate dynamic and expression markings
 
 Music and Science:
 
-* www.digitalsoundandmusic.com
+* https://www.digitalsoundandmusic.com
 
 Theory Resources:
 
-* www.musictheory.net
+* https://www.musictheory.net
 
 Notation Resources:
 
-* www.Noteflight.com
+* https://www.Noteflight.com
 
 Online Digital Audio Workstations (DAW):
 
-* www.soundtrap.com
-* www.soundation.com
+* https://www.soundtrap.com
+* https://www.soundation.com
 
 - - -
