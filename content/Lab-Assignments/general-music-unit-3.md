@@ -74,7 +74,7 @@ Theory Resources:
 
 Notation Resources:
 
-* https://www.Noteflight.com
+* https://www.noteflight.com
 
 Online Digital Audio Workstations (DAW):
 
