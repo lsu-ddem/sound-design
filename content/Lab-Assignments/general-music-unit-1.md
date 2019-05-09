@@ -18,7 +18,9 @@ Scales: C major, F major, G major
 * Solfege
 * Why 7 letters and 12 notes
 * Introduction to key signatures
-  Intervals  
+
+Intervals  
+
 * Half steps and whole steps
 
 Harmony
