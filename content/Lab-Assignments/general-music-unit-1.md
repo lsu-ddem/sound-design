@@ -27,35 +27,41 @@ Review the following document from our course materials:
 
 #### Learning Objectives
 
-Basic theory
+1. Basic theory
 
 * Pitch defined.
 * Overtone series defined. (video)
 
-Scales. Major C, F G
+2. Scales. Major C, F G
 
 * solfege
 * Why 7 letters and 12 notes?
 * Introduction to key signatures
 * Intervals.  
   * Half steps and whole steps
-* Chords 
-  * Major triads
-  * Minor triads
-* Intro to reading 
-  * Rhythm.
-    * quarter, half, whole, equivalent rests
-    * Exercise: have students take turns writing four measure phrases on the board for the class as a whole and individuals to perform.
-    * Exercise: https://www.musictheory.net/exercises/note
-  * Pitch.
-    * Staff (lines and spaces)
-    * Treble Clef
-    * Exercise: have students make their own acronyms for lines and spaces. 
-    * Have students import the midi file from a melody they like then learn to perform it based on the score.  (have some go to examples that are easy)  Use Noteflight.com to visualize.  Editing or extracting the melody may be necessary.
-  * Basic dynamic and expression markings.
-* Ear Training
-  * Ear training introduction
-  * High vs low (Online game https://www.musictheory.net)
+
+3. Chords 
+
+* Major triads
+* Minor triads
+
+4. Intro to reading 
+
+* Rhythm.
+  * quarter, half, whole, equivalent rests
+  * Exercise: have students take turns writing four measure phrases on the board for the class as a whole and individuals to perform.
+  * Exercise: https://www.musictheory.net/exercises/note
+* Pitch.
+  * Staff (lines and spaces)
+  * Treble Clef
+  * Exercise: have students make their own acronyms for lines and spaces. 
+  * Have students import the midi file from a melody they like then learn to perform it based on the score.  (have some go to examples that are easy)  Use Noteflight.com to visualize.  Editing or extracting the melody may be necessary.
+* Basic dynamic and expression markings
+
+5. Ear Training
+
+* Ear training introduction
+* High vs low (Online game https://www.musictheory.net)
 
 - - -
 
