@@ -18,7 +18,7 @@ Scales: C major, F major, G major
 * Solfege
 * Why 7 letters and 12 notes
 * Introduction to key signatures
-Intervals  
+  Intervals  
 * Half steps and whole steps
 
 Harmony
@@ -31,14 +31,14 @@ Harmony
 Rhythm
 
 * Quarter, half, whole, equivalent rests
-* Exercise: www.musictheory.net/exercises
+* Exercise: https://www.musictheory.net/exercises
 
 Pitch
 
 * Staff (lines and spaces)
 * Treble Clef
 * Exercise: have students make their own acronyms for lines and spaces. 
-* Have students import the midi file from a melody they like then learn to perform it based on the score.  (have some go to examples that are easy)  Use www.noteflight.com to visualize.  Editing or extracting the melody may be necessary.
+* Have students import the midi file from a melody they like then learn to perform it based on the score.  (have some go to examples that are easy)  Use https://www.noteflight.com to visualize.  Editing or extracting the melody may be necessary.
 * Basic dynamic and expression markings
 
 **Ear Training**
@@ -52,20 +52,19 @@ Pitch
 
 Music and Science:
 
-* www.digitalsoundandmusic.com
+* https://www.digitalsoundandmusic.com
 
 Theory Resources:
 
-* www.musictheory.net
+* https://www.musictheory.net
 
 Notation Resources:
 
-* www.Noteflight.com
+* https://www.Noteflight.com
 
 Online Digital Audio Workstations (DAW):
 
-* www.soundtrap.com
-* www.soundation.com
+* https://www.soundtrap.com
+* https://www.soundation.com
 
 - - -
-
