@@ -23,6 +23,7 @@ Harmony
 * Seventh Chords
 * Chord progressions
   * V  I relationship
+  * Diatonic chords
   * Tonic, dominant, subdominant
   * Circle of fifths
   * Blues form
@@ -42,7 +43,7 @@ Pitch
 * Exercise: have students make their own acronyms for lines and spaces in bass clef.
   Have students import the midi file from a melody with left hand accompaniment then learn to perform it based on the score.  (have some go to examples that are easy)  Use www.noteflight.com to visualize.  
 * Ledger lines
-
+* Accidentals
 Intermediate dynamic and expression markings
 
 **Ear Training**
