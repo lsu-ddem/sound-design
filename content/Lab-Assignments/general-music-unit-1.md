@@ -30,7 +30,7 @@ Review the following document from our course materials:
 **Basic theory**
 
 1. Pitch (from a scientific perspective)
-2. Overtone series defined
+2. The overtone series 
 3. Scales: C major, F major, G major
 
 * Solfege
