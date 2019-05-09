@@ -27,29 +27,27 @@ Review the following document from our course materials:
 
 #### Learning Objectives
 
-1. Basic theory
+**Basic theory**
 
-* Pitch defined.
-* Overtone series defined. (video)
+1. Pitch (from a scientific perspective)
+2. Overtone series defined
+3. Scales: C major, F major, G major
 
-2. Scales. Major C, F G
-
-* solfege
-* Why 7 letters and 12 notes?
+* Solfege
+* Why 7 letters and 12 notes
 * Introduction to key signatures
-* Intervals.  
+* Intervals  
   * Half steps and whole steps
 
-3. Chords 
+Harmony
 
 * Major triads
 * Minor triads
 
-4. Intro to reading 
+Intro to reading 
 
 * Rhythm.
-  * quarter, half, whole, equivalent rests
-  * Exercise: have students take turns writing four measure phrases on the board for the class as a whole and individuals to perform.
+  * Quarter, half, whole, equivalent rests
   * Exercise: https://www.musictheory.net/exercises/note
 * Pitch.
   * Staff (lines and spaces)
@@ -61,7 +59,7 @@ Review the following document from our course materials:
 5. Ear Training
 
 * Ear training introduction
-* High vs low (Online game https://www.musictheory.net)
+* High vs low Online game https://www.musictheory.net
 
 - - -
 
