@@ -66,19 +66,19 @@ Introduction to graphic scores
 
 Music and Science:
 
-* www.digitalsoundandmusic.com
+* https://www.digitalsoundandmusic.com
 
 Theory Resources:
 
-* www.musictheory.net
+* https://www.musictheory.net
 
 Notation Resources:
 
-* www.Noteflight.com
+* https://www.Noteflight.com
 
 Online Digital Audio Workstations (DAW):
 
-* www.soundtrap.com
-* www.soundation.com
+* https://www.soundtrap.com
+* https://www.soundation.com
 
 - - -
