@@ -25,8 +25,8 @@ For your final project, you will compose a 3:00-5:00 original piece to be presen
 * All MIDI must be well-edited and/or quantized as applicable.
 * Your project must feature your original field recording in a signifiant way.
 
-3.  For the final draft submission, you will need to submit a [Mixdown]({{% relref "../daw-instructions/mixing-down.md" %}}) in addition to your song project folder. Use the 16bit/44.1 setting in the wav format. Listen to this Mixdown file all the way through to ensure it is free of errors and clipping.
-4.  When you are finished, ensure that your project has the name "YourFirstNameYourLastName-FinalProject" and submit using the procedure in the [Basic Submission Instructions]({{% relref "../daw-instructions/basic-submission-instructions.md#submitting-a-song" %}}) document. Make sure that both the Mixdown file and any other files are stored inside your song project folder before submitting.
+3.  For the final draft submission, you will need to submit a [Mixdown]({{% relref "../DAW-instructions/mixing-down.md" %}}) in addition to your song project folder. Use the 16bit/44.1 setting in the wav format. Listen to this Mixdown file all the way through to ensure it is free of errors and clipping.
+4.  When you are finished, ensure that your project has the name "YourFirstNameYourLastName-FinalProject" and submit using the procedure in the [Basic Submission Instructions]({{% relref "../DAW-instructions/basic-submission-instructions.md#submitting-a-song" %}}) document. Make sure that both the Mixdown file and any other files are stored inside your song project folder before submitting.
 5.  As always, save a backup copy on your personal storage media.
 
 # Rubric

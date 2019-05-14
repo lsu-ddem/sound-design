@@ -26,7 +26,7 @@ MIDI quantization editing
 * Resolution - 16 bit
 * Tempo - your choice (try to get away from 120)
 
-1.  Open the [Instruments]({{% relref "../daw-instructions/browsing-for-instruments.md" %}}) tab of the Browser panel. Drag an instance of the [Impact]({{% relref "../daw-instructions/impact.md" %}}) sampler instrument onto a new track in the Arrange window.
+1.  Open the [Instruments]({{% relref "../DAW-instructions/browsing-for-instruments.md" %}}) tab of the Browser panel. Drag an instance of the [Impact]({{% relref "../DAW-instructions/impact.md" %}}) sampler instrument onto a new track in the Arrange window.
 2.  Load a preset in Impact and adjust settings as desired. Record a four bar drum part. Remember to utilize the metronome and precount from [Lab 5]({{% relref "Lab-Assignment-5.md" %}}) as needed while you write and record your part.
 3.  After your drum part has been recorded, open the piano roll editor and quantize. Then, explore some of the additional quantization and MIDI editing techniques described below.
 4.  When you are finished editing the drum part, drag an instance of Mojito or Mai Tai onto a new track in the Arrange window. Adjust settings as desired and record a part to accompany your drum part.
@@ -36,7 +36,7 @@ MIDI quantization editing
 * A drum part using the Impact instrument that has been “creatively” quantized (meaning that there is some application of swing, humanization, or manual shifting of notes after the initial quantization)
 * Two instances of Mojito or Mai Tai synth parameter automation that are NOT volume or pan – these can be on the same track or two different tracks if you decide to record a second synth part.
 
-8.  When you are finished, submit your project using the procedure in the [Basic Submission Instructions]({{% relref "../daw-instructions/basic-submission-instructions.md#submitting-a-song" %}}) document.
+8.  When you are finished, submit your project using the procedure in the [Basic Submission Instructions]({{% relref "../DAW-instructions/basic-submission-instructions.md#submitting-a-song" %}}) document.
 9.  As always, save a backup copy on your personal storage media.
 
 ### Quantization settings and additional MIDI editing in the piano roll editor:
