@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Educational material for LSU Programming Digital Media</title>
+    <link>/computer-music/projects/</link>
+    <description>Recent content in Projects on Educational material for LSU Programming Digital Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/computer-music/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Final Project</title>
+      <link>/computer-music/projects/final-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/projects/final-project/</guid>
+      <description>Description For your final project, you will compose a 3:00-5:00 original piece to be presented at the end-of-semester concert on Wednesday April 25. This project will be based in some manner on an original field recording – e.g. something you recorded in a coffee shop, while walking around campus, or an interesting collection of sounds from your kitchen. Otherwise, the form and genre of the project is completely up to you, so long as it can be presented in some format at the concert and uploaded to the class SoundCloud.</description>
+    </item>
+    
+    <item>
+      <title>Mini Composition 1</title>
+      <link>/computer-music/projects/mini-composition-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/projects/mini-composition-1/</guid>
+      <description>Musique Concrète Narrative Description For this project, you will compose a 1:00-2:00 piece using techniques from the Musique Concrète tradition that tells a story through sound. The composition should take the listener through an activity, scene, emotion, or environment without the aid of spoken word. It should also have a coherent formal structure, with a clear beginning and ending.
+ Only use audio samples (no virtual instruments). The source audio material for the composition may be retrieved from an online repository such as Freesound.</description>
+    </item>
+    
+    <item>
+      <title>Mini Composition 2</title>
+      <link>/computer-music/projects/mini-composition-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/projects/mini-composition-2/</guid>
+      <description>Synthesizer Film Soundtrack Description For this project, you will compose a 1:00-2:00 soundtrack for a short film using primarily the synthesizer instruments in your DAW. The composition can include any combination of background music, foreground music, and/or sound effects. It should also have a coherent formal structure, with a clear beginning and ending. The video can be any selection of your choosing - including footage sourced from YouTube, archive.org, or something you shoot and edit yourself - but it must be properly edited and combined with your soundtrack audio file before submitting.</description>
+    </item>
+    
+  </channel>
+</rss>

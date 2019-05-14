@@ -1,0 +1,53 @@
+backend:
+  name: git-gateway
+  # repo: tatecarson/lsu-ddem-new
+
+media_folder: "/static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: "homepage" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Home Page" # Used in the UI, ie.: "New Post"
+    folder: "content" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  # Other content 
+  # Daw Instructions 
+  - name: "daw-instructions"
+    label: "Daw Instructions"
+    folder: "content/DAW-instructions" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "lab-assignments"
+    label: "Lab Assignments"
+    folder: "content/Lab-Assignments" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}         
+  - name: "presentations"
+    label: "Presentations"
+    folder: "content/Presentations" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "projects"
+    label: "Projects"
+    folder: "content/Projects" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "rubrics"
+    label: "Rubrics"
+    folder: "content/Rubrics" 
+    create: true 
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+

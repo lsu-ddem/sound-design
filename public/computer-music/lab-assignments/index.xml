@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Assignments on Educational material for LSU Programming Digital Media</title>
+    <link>/computer-music/lab-assignments/</link>
+    <description>Recent content in Lab Assignments on Educational material for LSU Programming Digital Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/computer-music/lab-assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lab Assignment 2</title>
+      <link>/computer-music/lab-assignments/lab-assignment-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-2/</guid>
+      <description>Recording and Importing Audio Files Prerequisites Content from Lab Assignment 1
+Preparation of a mobile audio recording app of your choice on your personal mobile device:
+ Select and install an app that has the ability to record uncompressed audio - this includes wav, aiff, Apple Lossless, FLAC or caf files. Apps that record only in mp3 or AAC are prohibited. Test recording of uncompressed audio. Test file transfer from mobile device to computer.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 3</title>
+      <link>/computer-music/lab-assignments/lab-assignment-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-3/</guid>
+      <description>Crossfades, Automation, and Using the Mixer Prerequisites Content from Lab Assignment 1
+Content from Lab Assignment 2
+Create personal free account at Freesound.org
+Optional: Explore Freesound.org and the University of Iowa Musical Instrument Samples repository for interesting samples
+Review the following document from our course materials:
+ Basic Submission Instructions  Objectives:  Crossfades Introduction to the Mixer/Console Volume and Pan Automation   Create a duplicate of your project from Lab Assignment 2.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 4</title>
+      <link>/computer-music/lab-assignments/lab-assignment-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-4/</guid>
+      <description>Video Workflow There will not be any files to submit for this lab. We will consider it a work day to familiarize yourself with a Video Workflow process in preparation for Mini Composition 2. You do not have to use the exact procedure outlined for this exercise. However, the steps described below use software already available to you in the SoM203 lab. Your primary objective should be to work through all of the sections below and approach the instructor if you need further instructions or clarifications.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 5</title>
+      <link>/computer-music/lab-assignments/lab-assignment-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-5/</guid>
+      <description>Basic MIDI Recording Prerequisites Content from all previous lab assignments
+The Grid in the Studio One Reference Manual
+Recommended - review the following sections in the Studio One Reference Manual:
+ Loops Tab Browsing for Instruments (in Instruments and Audio Effects) All Built-In Virtual Instruments - especially Mojito and Mai Tai Metronome Control  Optional - Set Up MIDI Keyboards in the Studio One Reference Manual Our MIDI controllers in the lab have already been properly set up.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 6</title>
+      <link>/computer-music/lab-assignments/lab-assignment-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-6/</guid>
+      <description>Synthesizers Objectives: Exploring Mojito and Mai Tai virtual instruments.
+ Open your DAW, create a new song/project with the title &amp;ldquo;YourFirstNameYourLastName-Lab6&amp;rdquo;. If prompted, use the following settings:   Sample Rate - 44.1kHz Resolution - 16 bit   Open the Studio One Reference Manual under the Help menu. Navigate to Built-In Virtual Instruments and read the entry for Mojito. Open the Instruments tab of the Browser panel. Drag an instance of the Mojito instrument onto a new track in the Arrange window.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 7</title>
+      <link>/computer-music/lab-assignments/lab-assignment-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-7/</guid>
+      <description>Advanced MIDI and Automation Objectives: MIDI quantization editing
+ swing humanize manual adjustment Synth parameter automation   Open your DAW, create a new song/project with the title &amp;ldquo;YourFirstNameYourLastName-Lab7&amp;rdquo;. If prompted, use the following settings:   Sample Rate - 44.1kHz Resolution - 16 bit Tempo - your choice (try to get away from 120)   Open the Instruments tab of the Browser panel. Drag an instance of the Impact sampler instrument onto a new track in the Arrange window.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 8</title>
+      <link>/computer-music/lab-assignments/lab-assignment-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-8/</guid>
+      <description>Plugins and Advanced Mixing Objectives:  Practice with Plugins as inserts Practice with routing and use of plugins on a submix/bus Practice with routing and use of plugins on an aux send  All of the steps below can be done in an existing project (e.g. your Final Project rough draft) or a new, simple project using anything from prepackaged loops to newly recorded MIDI parts. Regardless of where you start, please ensure that your song/project has the title &amp;ldquo;YourFirstNameYourLastName-Lab8&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>General Music Unit 1</title>
+      <link>/computer-music/lab-assignments/general-music-unit-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/general-music-unit-1/</guid>
+      <description>General Music Unit 1 Basic Theory
+Pitch (from a scientific perspective)
+The overtone Series
+Scales: C major, F major, G major
+ Solfege Why 7 letters and 12 notes Introduction to key signatures  Intervals
+ Half steps and whole steps  Harmony
+ Major triads Minor triads  Intro to Reading and Writing Music
+Rhythm
+ Quarter, half, whole, equivalent rests Exercise: https://www.musictheory.net/exercises  Pitch
+ Staff (lines and spaces) Treble Clef Exercise: have students make their own acronyms for lines and spaces.</description>
+    </item>
+    
+    <item>
+      <title>General Music Unit 2</title>
+      <link>/computer-music/lab-assignments/general-music-unit-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/general-music-unit-2/</guid>
+      <description>General Music Unit 2 Intermediate Theory
+Scales
+ All 12 major scales Introduction to minor scales All 12 key signatures  Intervals
+ All intervals within the octave  Harmony
+ All major and minor triads Seventh Chords Chord progressions  V I relationship Diatonic chords Tonic, dominant, subdominant Circle of fifths Blues form I vi ii V progression (and typical substitutions)  Introduction to roman numeral analysis  Intermediate Reading and Writing Music</description>
+    </item>
+    
+    <item>
+      <title>General Music Unit 3</title>
+      <link>/computer-music/lab-assignments/general-music-unit-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/general-music-unit-3/</guid>
+      <description>General Music Unit 3 Advanced Theory
+Scales:
+ All 12 major and minor scales  modes of major scale  Symmetrical scales  Diminished Whole tone Augmented Others Introduction to 12 tone and atonal music  Intervals
+ All intervals within the octave including extensions (ie 9ths, 11ths, 13ths, and alterations)   Harmony
+ All major and minor seventh chords Introduction to chord extensions Chord progressions  Substitutions for common chord progressions Secondary dominants and modulation Circle of fifths continued Examples of non-functional harmony  Advanced roman numeral analysis  Examples from classical, jazz and popular music   Advanced Reading and Writing Music</description>
+    </item>
+    
+    <item>
+      <title>Gibber</title>
+      <link>/computer-music/lab-assignments/gibber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/gibber/</guid>
+      <description>Gibber Gibber is a creative coding environment for audiovisual performance and composition. It contains features for audio synthesis and musical sequencing, 2d drawing, 3d scene construction and manipulation, and live-coding shaders.</description>
+    </item>
+    
+    <item>
+      <title>Lab Assignment 1</title>
+      <link>/computer-music/lab-assignments/lab-assignment-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/lab-assignments/lab-assignment-1/</guid>
+      <description>Basic Audio Editing and Intro to DAW Prerequisites Review the following sections in the Studio One Reference Manual:
+ Fundamentals&amp;gt;Drag-and-Drop Fundamentals&amp;gt;Transport Controls Editing&amp;gt;Events Editing&amp;gt;The Grid Optional but recommended:  Editing&amp;gt;Arrange View Mouse Tools Editing&amp;gt;Common Editing Actions   Review the following document from our course materials:
+ [Basic Submission Instructions](/computer-music/daw-instructions/basic-submission-instructions/)  Objectives  Introduction to Event-based audio editing techniques and tools within the arrange window  Splicing with the [Split Tool](/computer-music/daw-instructions/arrange-view-split-tool/) Selecting, Moving, and Resizing with the [Arrow Tool](/computer-music/daw-instructions/arrange-view-arrow-tool/) and/or [Range Tool](/computer-music/daw-instructions/arrange-view-range-tool/) [Copying and Pasting](/computer-music/daw-instructions/copying-and-pasting/) and/or [Duplicating](/computer-music/daw-instructions/duplicating/) Events  Introduction to Event-based audio processing within the arrange window  [Reversing Audio](/computer-music/daw-instructions/reversing-audio-event/) [Pitch Shifting](/computer-music/daw-instructions/audio-event-transpose-and-tune/) [Speed](/computer-music/daw-instructions/manual-timestretching/)  Basic DAW arrange window tasks  [Naming tracks](/computer-music/daw-instructions/naming-tracks/) Working with audio events Importing audio files with Drag-and-Drop   Instructions  Download DrumLoop1.</description>
+    </item>
+    
+  </channel>
+</rss>

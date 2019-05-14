@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music Fundamentals on Educational material for LSU Programming Digital Media</title>
+    <link>/music-fundamentals/</link>
+    <description>Recent content in Music Fundamentals on Educational material for LSU Programming Digital Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/music-fundamentals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General Music Unit 1</title>
+      <link>/music-fundamentals/general-music-unit-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music-fundamentals/general-music-unit-1/</guid>
+      <description>General Music Unit 1 Basic Theory
+Pitch (from a scientific perspective)
+The overtone Series
+Scales: C major, F major, G major
+ Solfege Why 7 letters and 12 notes Introduction to key signatures  Intervals
+ Half steps and whole steps  Harmony
+ Major triads Minor triads  Intro to Reading and Writing Music
+Rhythm
+ Quarter, half, whole, equivalent rests Exercise: https://www.musictheory.net/exercises  Pitch
+ Staff (lines and spaces) Treble Clef Exercise: have students make their own acronyms for lines and spaces.</description>
+    </item>
+    
+    <item>
+      <title>General Music Unit 2</title>
+      <link>/music-fundamentals/general-music-unit-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music-fundamentals/general-music-unit-2/</guid>
+      <description>General Music Unit 2 Intermediate Theory
+Scales
+ All 12 major scales Introduction to minor scales All 12 key signatures  Intervals
+ All intervals within the octave  Harmony
+ All major and minor triads Seventh Chords Chord progressions  V I relationship Diatonic chords Tonic, dominant, subdominant Circle of fifths Blues form I vi ii V progression (and typical substitutions)  Introduction to roman numeral analysis  Intermediate Reading and Writing Music</description>
+    </item>
+    
+    <item>
+      <title>General Music Unit 3</title>
+      <link>/music-fundamentals/general-music-unit-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music-fundamentals/general-music-unit-3/</guid>
+      <description>General Music Unit 3 Advanced Theory
+Scales:
+ All 12 major and minor scales  modes of major scale  Symmetrical scales  Diminished Whole tone Augmented Others Introduction to 12 tone and atonal music  Intervals
+ All intervals within the octave including extensions (ie 9ths, 11ths, 13ths, and alterations)   Harmony
+ All major and minor seventh chords Introduction to chord extensions Chord progressions  Substitutions for common chord progressions Secondary dominants and modulation Circle of fifths continued Examples of non-functional harmony  Advanced roman numeral analysis  Examples from classical, jazz and popular music   Advanced Reading and Writing Music</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/music-fundamentals/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/music-fundamentals/test/</guid>
+      <description>HIIII jalsdjf;lj</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rubrics on Educational material for LSU Programming Digital Media</title>
+    <link>/computer-music/rubrics/</link>
+    <description>Recent content in Rubrics on Educational material for LSU Programming Digital Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/computer-music/rubrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Final Project Rubric</title>
+      <link>/computer-music/rubrics/final-project-rubric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/rubrics/final-project-rubric/</guid>
+      <description>Final Project Student&amp;rsquo;s Name: Points: /25 Grade:     1 3 5 Score     Sound Design Poor quality, homogenous, uninteresting, and/or pulled from prohibited sources. Sufficient quality, moderate variety, and/or sourced appropriately. High quality, exceptionally varied and interesting, covers a wide timbral/tonal range.    Editing and Automation Techniques Little and/or incorrect use of editing techniques. Moderate and mostly correct use of editing techniques.</description>
+    </item>
+    
+    <item>
+      <title>Generic Lab Rubric</title>
+      <link>/computer-music/rubrics/generic-lab-rubric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/rubrics/generic-lab-rubric/</guid>
+      <description>Rubric Lab Assignment Student&amp;rsquo;s Name: Points: /10 Grade:     1 3 5 Score     Instructions Failed to complete most of the required steps. Completed most of the required steps. Completed all of the required steps.    General Technical Merit Several errors made in mixing, bouncing, and/or submitting. One or two errors made in mixing, bouncing, and/or submitting. No errors made in mixing, bouncing, and/or submitting.</description>
+    </item>
+    
+    <item>
+      <title>Guided Listening Presentation Rubric</title>
+      <link>/computer-music/rubrics/guided-listening-presentation-rubric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/rubrics/guided-listening-presentation-rubric/</guid>
+      <description>Rubric Guided Listening Presentation Group: Student&amp;rsquo;s Name(s): Points: /100 Grade:    Category Description Score     Song Selection Timely response to song selection forum on Moodle (due Sept 20). /10   Intro and Background Info Cited background information on song and/or artist to help contextualize the work for the audience. /25   &amp;ldquo;Listen For&amp;rdquo; A quick preemptive summary to prepare the audience for what they are about to hear.</description>
+    </item>
+    
+    <item>
+      <title>Mini Composition 1 Rubric</title>
+      <link>/computer-music/rubrics/mini-composition-1-rubric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/rubrics/mini-composition-1-rubric/</guid>
+      <description>Mini Composition 1 - Musique Concrète Narrative Student&amp;rsquo;s Name: Points: /20 Grade:     1 3 5 Score     Audio Samples Poor quality, homogenous, uninteresting, and/or pulled from prohibited sources. Sufficient quality, moderate variety, and/or sourced appropriately. High quality, exceptionally varied and interesting, covers a wide timbral/tonal range. Use of original recordings.    Editing and Automation Techniques Little and/or incorrect use of editing techniques.</description>
+    </item>
+    
+    <item>
+      <title>Mini Composition 2 Rubric</title>
+      <link>/computer-music/rubrics/mini-composition-2-rubric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/rubrics/mini-composition-2-rubric/</guid>
+      <description>Mini Composition 2 - Synthesizer Film Soundtrack Student&amp;rsquo;s Name: Points: /20 Grade:     1 3 5 Score     Synthesizers Little to no timbral variety, insufficient track/instrument quantity, use of prohibited instruments. Moderate timbral variety, sufficient track/instrument quantity, no use of prohibited instruments. Extensive timbral variety, exceeds required track/instrument quantity, covers a wide timbral/tonal range, no use of prohibited instruments    MIDI and Automation Techniques Little and/or incorrect use of MIDI quantization, MIDI recording/editing, and/or automation.</description>
+    </item>
+    
+  </channel>
+</rss>
