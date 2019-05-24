@@ -1,0 +1,3284 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.55.0" />
+    <meta name="description" content="Educational material for LSU Programming Digital Media">
+<meta name="author" content="Tate Carson">
+
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+<link rel="icon" href="/images/favicon.png" type="image/x-icon" />
+    <title> :: Educational material for LSU Programming Digital Media</title>
+    
+    
+    <link href="/css/nucleus.css?1557873685" rel="stylesheet">
+    <link href="/css/font-awesome.min.css?1557873685" rel="stylesheet">
+    <link href="/css/hybrid.css?1557873685" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1557873685" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1557873685" rel="stylesheet">
+    <link href="/css/auto-complete.css?1557873685" rel="stylesheet">
+    <link href="/css/theme.css?1557873685" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1557873685" rel="stylesheet">
+    
+    <link href="/css/pathways-base.css?1557873685" rel="stylesheet">
+    <link href="/css/pathways-base-print.css?1557873685" rel="stylesheet" media="print">
+    
+      <link href="/css/theme-blue.css?1557873685" rel="stylesheet">
+    
+
+    <script src="/js/jquery-2.x.min.js?1557873685"></script>
+    
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left{ 
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/computer-music/markdown-cheatsheet/">
+    <nav id="sidebar" class="showVisitedLinks">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <a id="logo" href="/">
+  
+  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    width="100%" height="100%" viewBox="0 0 700 250" enable-background="new 0 0 700 250" xml:space="preserve"
+    aria-labelledby="logoTitle logoDesc" role="img">
+    <title id="logoTitle">Pathways Logo</title>
+    <desc id="logoDesc">An illustrated head with ideas growing out of it.</desc>
+    <g>
+      <g>
+        <g>
+          <path fill="#FFFFFF" d="M317.001,77.012c11.734,0,21.401,3.747,29.004,11.239c7.603,7.493,11.404,17.105,11.404,28.839v15.887
+				c0,11.777-3.802,21.39-11.404,28.839c-7.603,7.448-17.27,11.173-29.004,11.173h-43.176v-11.535l10.217-1.979V90.591
+				l-10.217-1.978V77.012h10.217H317.001z M303.29,91.844v66.379h12.723c6.898,0,12.305-2.329,16.216-6.987
+				c3.911-4.657,5.866-10.745,5.866-18.259v-16.019c0-7.426-1.955-13.469-5.866-18.128c-3.911-4.657-9.317-6.986-16.216-6.986
+				H303.29z" />
+        </g>
+        <g>
+          <path fill="#FFFFFF" d="M413.762,77.012c11.733,0,21.401,3.747,29.004,11.239c7.603,7.493,11.403,17.105,11.403,28.839v15.887
+				c0,11.777-3.801,21.39-11.403,28.839c-7.603,7.448-17.271,11.173-29.004,11.173h-43.177v-11.535l10.218-1.979V90.591
+				l-10.218-1.978V77.012h10.218H413.762z M400.051,91.844v66.379h12.722c6.899,0,12.305-2.329,16.217-6.987
+				c3.91-4.657,5.866-10.745,5.866-18.259v-16.019c0-7.426-1.956-13.469-5.866-18.128c-3.912-4.657-9.317-6.986-16.217-6.986
+				H400.051z" />
+        </g>
+        <g>
+          <path fill="#FFFFFF" d="M528.309,130.801h-32.497v27.422h30.98l0.857-11.47h14.634v26.235h-75.938v-11.535l10.218-1.979V90.591
+				l-10.218-1.978V77.012h10.218h65.588v26.301h-14.766l-0.857-11.469h-30.717v24.125h32.497V130.801z" />
+        </g>
+        <g>
+          <path fill="#FFFFFF" d="M648.931,101.994l-0.395-0.065l-25.709,71.06h-12.92l-25.576-70.796l-0.395,0.065l1.846,42.122v15.095
+				l10.283,1.979v11.535h-39.749v-11.535l10.218-1.979V90.591l-10.218-1.978V77.012h10.218h25.114l24.456,70.73h0.395l24.654-70.73
+				h35.463v11.602l-10.283,1.978v68.884l10.283,1.979v11.535h-39.748v-11.535l10.217-1.979V144.38L648.931,101.994z" />
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle fill="#FFFFFF" cx="130.801" cy="125" r="107.417" />
+        </g>
+        <g>
+          <g>
+            <g>
+              <g>
+                <path fill="#16BAAD" d="M176.927,168.001c-0.939-1.99-3.438-7.664-5.885-16.582c1.586-14.713,1.273-27.944,0.941-34.554
+							c-0.018-0.373-1.854-4.232-4.676-4.445H85.921c-3.057,0.096-4.887,3.753-4.959,4.334c-2.67,22.083,2.049,40.124,3.475,51.142
+							c1.244,9.615-2.912,17.211-5.436,20.813c-1.033,1.478-0.605,2.427,0.053,3.018l50.518,20.13
+							c1.043-0.314,1.602-1.029,1.164-2.206c-2.338-6.305-1.23-14.036-0.529-17.507c0.232-1.158,1.801-1.52,2.535-1.484
+							c5.211,0.247,15.359,3.685,20.572,3.474c1.41-0.057,2.645-0.409,3.396-1.421c5.07-6.809,8.506-11.414,10.85-20.95
+							c1.975,0.473,7.096-0.612,9.168-2.271C177.187,169.124,177.177,168.528,176.927,168.001z" />
+              </g>
+            </g>
+          </g>
+          <g>
+            <g>
+              <g>
+                <path fill="#414042" d="M135.575,213.606c-0.315,0-0.629-0.06-0.925-0.178l-50.645-20.181
+							c-0.274-0.109-0.527-0.266-0.746-0.463c-1.438-1.293-2.307-3.632-0.431-6.316c2.363-3.375,6.155-10.343,5.021-19.114
+							c-0.29-2.233-0.712-4.733-1.201-7.627c-1.879-11.116-4.454-26.34-2.286-44.263c0.19-1.534,2.77-6.399,7.376-6.543
+							l81.668-0.001c0.063,0,0.125,0.002,0.188,0.007c4.25,0.321,6.925,5.308,6.996,6.833c0.332,6.582,0.651,19.779-0.904,34.549
+							c2.347,8.442,4.707,13.822,5.623,15.766c0.781,1.637,0.423,3.453-0.896,4.511c-2.081,1.665-6.018,2.747-8.852,2.915
+							c-2.456,8.736-5.991,13.483-10.757,19.886c-1.147,1.537-2.933,2.354-5.327,2.451c-3.181,0.14-7.729-0.896-12.113-1.889
+							c-3.244-0.734-6.598-1.494-8.73-1.595c-0.02,0.001-0.046,0.004-0.076,0.009c-0.604,3.221-1.51,10.17,0.527,15.663
+							c0.553,1.492,0.256,2.637-0.091,3.333c-0.354,0.712-1.109,1.661-2.699,2.142C136.062,213.571,135.818,213.606,135.575,213.606
+							z M87.091,189.096l46.655,18.591c-1.647-6.27-0.738-13.099,0.015-16.837c0.464-2.295,2.812-3.495,4.894-3.495
+							c0.076,0,0.149,0.001,0.219,0.005c2.57,0.121,5.983,0.895,9.597,1.713c4.049,0.917,8.233,1.869,10.806,1.769
+							c0.458-0.019,1.263-0.098,1.504-0.421c4.958-6.66,8.224-11.047,10.451-20.105c0.328-1.335,1.673-2.157,3.009-1.835
+							c0.018,0.005,0.19,0.043,0.583,0.043c1.638,0,4.033-0.586,5.521-1.283c-1.192-2.659-3.427-8.129-5.604-16.062
+							c-0.083-0.302-0.108-0.617-0.074-0.929c1.548-14.361,1.271-27.266,0.949-33.893c-0.375-0.803-1.467-2.304-2.334-2.436H91.817
+							c-1.108,0.036-2.229,1.693-2.516,2.357c-2.036,17.109,0.456,31.845,2.277,42.617c0.478,2.822,0.928,5.489,1.23,7.819
+							C94.132,176.952,89.875,185.045,87.091,189.096z" />
+              </g>
+            </g>
+          </g>
+          <g>
+            <circle fill="#FFFFFF" cx="125.387" cy="146.91" r="30.862" />
+          </g>
+          <g>
+            <g>
+              <path fill="#414042" d="M125.335,167.248c-3.318,0-6.018-2.699-6.018-6.018s2.7-6.018,6.018-6.018
+						c3.319,0,6.02,2.699,6.02,6.018S128.654,167.248,125.335,167.248z M125.335,159.213c-1.112,0-2.018,0.905-2.018,2.018
+						s0.905,2.018,2.018,2.018c1.114,0,2.02-0.905,2.02-2.018S126.449,159.213,125.335,159.213z" />
+            </g>
+            <g>
+              <polygon fill="#414042" points="141.808,149.665 137.808,149.665 137.808,135.854 119.856,135.854 119.856,145.956 
+						115.856,145.956 115.856,131.854 141.808,131.854 					" />
+            </g>
+            <g>
+              <path fill="#414042" d="M139.745,155.391c-2.682,0-4.863-2.182-4.863-4.862c0-2.682,2.182-4.863,4.863-4.863
+						c2.681,0,4.861,2.182,4.861,4.863C144.606,153.209,142.426,155.391,139.745,155.391z M139.745,149.665
+						c-0.476,0-0.863,0.388-0.863,0.863s0.387,0.862,0.863,0.862c0.475,0,0.861-0.387,0.861-0.862S140.22,149.665,139.745,149.665z"
+              />
+            </g>
+            <g>
+              <circle fill="#414042" cx="117.919" cy="148.38" r="3.363" />
+            </g>
+            <g>
+              <polygon fill="#414042" points="112.245,152.528 108.245,152.528 108.245,136.974 116.919,136.974 116.919,140.974 
+						112.245,140.974 					" />
+            </g>
+            <g>
+              <path fill="#414042" d="M110.245,160.254c-2.682,0-4.863-2.182-4.863-4.863c0-2.681,2.182-4.862,4.863-4.862
+						c2.681,0,4.861,2.182,4.861,4.862C115.106,158.072,112.926,160.254,110.245,160.254z M110.245,154.528
+						c-0.476,0-0.863,0.387-0.863,0.862s0.387,0.863,0.863,0.863c0.475,0,0.861-0.388,0.861-0.863S110.72,154.528,110.245,154.528z"
+              />
+            </g>
+          </g>
+          <g>
+            <rect x="123.345" y="52.019" fill="#414042" width="4" height="104.2" />
+          </g>
+          <g>
+            <g>
+              <path fill="#414042" d="M119.157,58.986L119.157,58.986c-3.181,0-6.236-0.977-8.836-2.824c-4.4-3.128-6.838-8.416-6.363-13.798
+						l0.103-1.167l1.068-0.48c1.961-0.882,4.136-1.349,6.289-1.349c3.18,0,6.235,0.977,8.835,2.824
+						c4.4,3.128,6.838,8.416,6.363,13.798l-0.103,1.167l-1.068,0.48C123.483,58.52,121.309,58.986,119.157,58.986z M107.901,43.927
+						c0.072,3.542,1.821,6.901,4.737,8.975c1.919,1.364,4.173,2.084,6.518,2.084h0c1.188,0,2.383-0.191,3.516-0.56
+						c-0.072-3.542-1.821-6.901-4.737-8.975c-1.919-1.364-4.173-2.084-6.518-2.084C110.23,43.367,109.034,43.558,107.901,43.927z"
+              />
+            </g>
+          </g>
+          <g>
+            <g>
+              <path fill="#414042" d="M133.537,59.597C133.536,59.597,133.536,59.597,133.537,59.597c-2.988,0-5.973-0.717-8.632-2.075
+						l-1.043-0.533l-0.046-1.17c-0.261-6.693,3.078-13.09,8.714-16.695c3.052-1.951,6.571-2.982,10.178-2.982
+						c2.988,0,5.974,0.717,8.635,2.075l1.044,0.533l0.045,1.171c0.259,6.694-3.082,13.09-8.718,16.693
+						C140.663,58.566,137.143,59.597,133.537,59.597z M127.814,54.462c1.809,0.745,3.765,1.135,5.722,1.135
+						c2.842,0,5.616-0.813,8.022-2.353c4.107-2.625,6.668-7.131,6.874-11.966c-1.81-0.746-3.767-1.136-5.725-1.136
+						c-2.842,0-5.616,0.813-8.023,2.352C130.578,45.121,128.018,49.627,127.814,54.462z" />
+            </g>
+          </g>
+          <g>
+            <rect x="146.294" y="78.819" fill="#414042" width="4" height="26.558" />
+          </g>
+          <g>
+            <g>
+              <path fill="#414042" d="M151.474,83.372c-1.242,0-2.498-0.269-3.629-0.778l-1.068-0.48l-0.104-1.167
+						c-0.276-3.11,1.132-6.165,3.676-7.971c1.5-1.067,3.265-1.631,5.103-1.631c1.243,0,2.498,0.269,3.63,0.779l1.068,0.48
+						l0.104,1.167c0.276,3.109-1.132,6.163-3.675,7.971C155.075,82.808,153.311,83.372,151.474,83.372z M150.716,79.312
+						c1.246,0.198,2.516-0.101,3.545-0.832c1.036-0.736,1.727-1.852,1.949-3.076c-1.244-0.194-2.516,0.101-3.544,0.832
+						C151.629,76.972,150.938,78.087,150.716,79.312z" />
+            </g>
+          </g>
+          <g>
+            <g>
+              <path fill="#414042" d="M144.083,83.686c-2.04,0-4.029-0.583-5.754-1.687c-3.185-2.036-5.073-5.651-4.927-9.435l0.045-1.171
+						l1.044-0.533c3.321-1.694,7.481-1.502,10.633,0.512c3.186,2.037,5.073,5.652,4.927,9.436l-0.045,1.171l-1.044,0.533
+						C147.459,83.28,145.772,83.686,144.083,83.686z M137.468,73.962c0.284,1.898,1.375,3.618,3.016,4.667
+						c1.626,1.04,3.663,1.322,5.502,0.781c-0.284-1.898-1.375-3.619-3.016-4.668C141.345,73.703,139.307,73.421,137.468,73.962z"
+              />
+            </g>
+          </g>
+          <g>
+            <rect x="165.278" y="69.146" fill="#414042" width="4" height="36.23" />
+          </g>
+          <g>
+            <polygon fill="#414042" points="98.72,105.377 94.72,105.377 94.72,99.688 83.519,90.912 83.519,82.281 87.519,82.281 
+					87.519,88.965 98.72,97.74 				" />
+          </g>
+          <g>
+            <rect x="110.11" y="85.771" fill="#414042" width="4" height="19.605" />
+          </g>
+          <g>
+            <rect x="94.72" y="75.791" fill="#414042" width="4" height="23.923" />
+          </g>
+          <g>
+            <polygon fill="#414042" points="168.547,102.206 166.01,99.114 172.663,93.654 172.663,83.672 176.663,83.672 176.663,95.545 
+									" />
+          </g>
+          <g>
+            <rect x="172.663" y="74.447" fill="#414042" width="4" height="6.249" />
+          </g>
+          <g>
+            <path fill="#414042" d="M112.11,88.096c-3.455,0-6.266-2.811-6.266-6.267s2.811-6.267,6.266-6.267s6.266,2.811,6.266,6.267
+					S115.565,88.096,112.11,88.096z M112.11,79.562c-1.25,0-2.266,1.017-2.266,2.267s1.016,2.267,2.266,2.267
+					s2.266-1.017,2.266-2.267S113.36,79.562,112.11,79.562z" />
+          </g>
+          <g>
+            <circle fill="#414042" cx="134.045" cy="94.27" r="3.503" />
+          </g>
+          <g>
+            <path fill="#414042" d="M167.278,71.146c-3.712,0-6.732-3.021-6.732-6.734c0-3.713,3.02-6.733,6.732-6.733
+					c3.713,0,6.734,3.021,6.734,6.733C174.013,68.125,170.992,71.146,167.278,71.146z M167.278,61.679
+					c-1.507,0-2.732,1.226-2.732,2.733c0,1.508,1.226,2.734,2.732,2.734c1.508,0,2.734-1.227,2.734-2.734
+					C170.013,62.905,168.786,61.679,167.278,61.679z" />
+          </g>
+          <g>
+            <circle fill="#414042" cx="85.519" cy="82.127" r="3.076" />
+          </g>
+          <g>
+            <path fill="#414042" d="M96.718,77.548c-3.243,0-5.881-2.639-5.881-5.882c0-3.243,2.638-5.881,5.881-5.881
+					c3.244,0,5.883,2.638,5.883,5.881C102.601,74.909,99.961,77.548,96.718,77.548z M96.718,69.785
+					c-1.037,0-1.881,0.844-1.881,1.881c0,1.038,0.844,1.882,1.881,1.882c1.038,0,1.883-0.844,1.883-1.882
+					C98.601,70.629,97.756,69.785,96.718,69.785z" />
+          </g>
+          <g>
+
+            <rect x="128.946" y="90.462" transform="matrix(0.5763 0.8172 -0.8172 0.5763 134.2387 -66.1783)" fill="#414042" width="4"
+              height="11.835" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+
+</a>
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fa fa-search"></i></label>
+    <input data-search-input aria-label="Search" id="search-by" name="search-by" type="text" placeholder="Search...">
+    <span data-search-clear=""><i class="fa fa-close"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1557873685"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1557873685"></script>
+<script type="text/javascript">
+    
+        var baseurl = '\/';
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1557873685"></script>
+
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/computer-music/" title="Computer Music" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/computer-music/">
+          <b>1. </b>Computer Music
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+            
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/computer-music/daw-instructions/" title="Daw Instructions" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/computer-music/daw-instructions/">
+          <b>1. </b>Daw Instructions
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/arrange-view-arrow-tool/" title="Arrange View Arrow Tools" class="dd-item ">
+        <a href="/computer-music/daw-instructions/arrange-view-arrow-tool/">
+        Arrange View Arrow Tools
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/arrange-view-range-tool/" title="Arrange View Range Tools" class="dd-item ">
+        <a href="/computer-music/daw-instructions/arrange-view-range-tool/">
+        Arrange View Range Tools
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/arrange-view-split-tool/" title="Arrange View Split Tools" class="dd-item ">
+        <a href="/computer-music/daw-instructions/arrange-view-split-tool/">
+        Arrange View Split Tools
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/audio-event-transpose-and-tune/" title="Audio Event Transpose and Tune" class="dd-item ">
+        <a href="/computer-music/daw-instructions/audio-event-transpose-and-tune/">
+        Audio Event Transpose and Tune
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/basic-submission-instructions/" title="Basic Submission Instructions" class="dd-item ">
+        <a href="/computer-music/daw-instructions/basic-submission-instructions/">
+        Basic Submission Instructions
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/browsing-for-instruments/" title="Browsing for Instruments" class="dd-item ">
+        <a href="/computer-music/daw-instructions/browsing-for-instruments/">
+        Browsing for Instruments
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/crossfades/" title="Crossfades" class="dd-item ">
+        <a href="/computer-music/daw-instructions/crossfades/">
+        Crossfades
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/copying-and-pasting/" title="Cut Copy and Paste" class="dd-item ">
+        <a href="/computer-music/daw-instructions/copying-and-pasting/">
+        Cut Copy and Paste
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/duplicating/" title="Duplicating" class="dd-item ">
+        <a href="/computer-music/daw-instructions/duplicating/">
+        Duplicating
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/impact/" title="Impact" class="dd-item ">
+        <a href="/computer-music/daw-instructions/impact/">
+        Impact
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/import-video/" title="Import Video" class="dd-item ">
+        <a href="/computer-music/daw-instructions/import-video/">
+        Import Video
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/loops-tab/" title="Loops Tab" class="dd-item ">
+        <a href="/computer-music/daw-instructions/loops-tab/">
+        Loops Tab
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/manual-timestretching/" title="Manual Timestretching" class="dd-item ">
+        <a href="/computer-music/daw-instructions/manual-timestretching/">
+        Manual Timestretching
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/metronome-control/" title="Metronome Control" class="dd-item ">
+        <a href="/computer-music/daw-instructions/metronome-control/">
+        Metronome Control
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/mixing-down/" title="Mixing Down" class="dd-item ">
+        <a href="/computer-music/daw-instructions/mixing-down/">
+        Mixing Down
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/mojito/" title="Mojito" class="dd-item ">
+        <a href="/computer-music/daw-instructions/mojito/">
+        Mojito
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/naming-tracks/" title="Naming Tracks" class="dd-item ">
+        <a href="/computer-music/daw-instructions/naming-tracks/">
+        Naming Tracks
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/notes-on-daw-instructions/" title="Notes on DAW instructions" class="dd-item ">
+        <a href="/computer-music/daw-instructions/notes-on-daw-instructions/">
+        Notes on DAW instructions
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/reversing-audio-event/" title="Reversing Audio Event" class="dd-item ">
+        <a href="/computer-music/daw-instructions/reversing-audio-event/">
+        Reversing Audio Event
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/setup-midi-keyboards/" title="Set up MIDI Keyboards" class="dd-item ">
+        <a href="/computer-music/daw-instructions/setup-midi-keyboards/">
+        Set up MIDI Keyboards
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/strip-silence/" title="Strip Silence" class="dd-item ">
+        <a href="/computer-music/daw-instructions/strip-silence/">
+        Strip Silence
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/console-intro/" title="The Console" class="dd-item ">
+        <a href="/computer-music/daw-instructions/console-intro/">
+        The Console
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/the-grid/" title="The Grid" class="dd-item ">
+        <a href="/computer-music/daw-instructions/the-grid/">
+        The Grid
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/daw-instructions/volume-and-pan-automation/" title="Volume and Pan Automation" class="dd-item ">
+        <a href="/computer-music/daw-instructions/volume-and-pan-automation/">
+        Volume and Pan Automation
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/syllabus/" title="LSU - MUS 2745 Syllabus" class="dd-item ">
+        <a href="/computer-music/syllabus/">
+        LSU - MUS 2745 Syllabus
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/computer-music/lab-assignments/" title="Lab Assignments" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/computer-music/lab-assignments/">
+          <b>2. </b>Lab Assignments
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-2/" title="Lab Assignment 2" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-2/">
+        Lab Assignment 2
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-3/" title="Lab Assignment 3" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-3/">
+        Lab Assignment 3
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-4/" title="Lab Assignment 4" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-4/">
+        Lab Assignment 4
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-5/" title="Lab Assignment 5" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-5/">
+        Lab Assignment 5
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-6/" title="Lab Assignment 6" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-6/">
+        Lab Assignment 6
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-7/" title="Lab Assignment 7" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-7/">
+        Lab Assignment 7
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-8/" title="Lab Assignment 8" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-8/">
+        Lab Assignment 8
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/general-music-unit-1/" title="General Music Unit 1" class="dd-item ">
+        <a href="/computer-music/lab-assignments/general-music-unit-1/">
+        General Music Unit 1
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/general-music-unit-2/" title="General Music Unit 2" class="dd-item ">
+        <a href="/computer-music/lab-assignments/general-music-unit-2/">
+        General Music Unit 2
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/general-music-unit-3/" title="General Music Unit 3" class="dd-item ">
+        <a href="/computer-music/lab-assignments/general-music-unit-3/">
+        General Music Unit 3
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/gibber/" title="Gibber" class="dd-item ">
+        <a href="/computer-music/lab-assignments/gibber/">
+        Gibber
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/lab-assignments/lab-assignment-1/" title="Lab Assignment 1" class="dd-item ">
+        <a href="/computer-music/lab-assignments/lab-assignment-1/">
+        Lab Assignment 1
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/computer-music/presentation/" title="Presentation" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/computer-music/presentation/">
+          <b>3. </b>Presentation
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/presentation/guided-listening-presentation/" title="Guided Listening Presentation" class="dd-item ">
+        <a href="/computer-music/presentation/guided-listening-presentation/">
+        Guided Listening Presentation
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/presentation/music-selections/" title="Music Selections" class="dd-item ">
+        <a href="/computer-music/presentation/music-selections/">
+        Music Selections
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/computer-music/projects/" title="Projects" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/computer-music/projects/">
+          <b>4. </b>Projects
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/projects/final-project/" title="Final Project" class="dd-item ">
+        <a href="/computer-music/projects/final-project/">
+        Final Project
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/projects/mini-composition-1/" title="Mini Composition 1" class="dd-item ">
+        <a href="/computer-music/projects/mini-composition-1/">
+        Mini Composition 1
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/projects/mini-composition-2/" title="Mini Composition 2" class="dd-item ">
+        <a href="/computer-music/projects/mini-composition-2/">
+        Mini Composition 2
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/computer-music/rubrics/" title="Rubrics" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/computer-music/rubrics/">
+          <b>5. </b>Rubrics
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/rubrics/final-project-rubric/" title="Final Project Rubric" class="dd-item ">
+        <a href="/computer-music/rubrics/final-project-rubric/">
+        Final Project Rubric
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/rubrics/generic-lab-rubric/" title="Generic Lab Rubric" class="dd-item ">
+        <a href="/computer-music/rubrics/generic-lab-rubric/">
+        Generic Lab Rubric
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/rubrics/guided-listening-presentation-rubric/" title="Guided Listening Presentation Rubric" class="dd-item ">
+        <a href="/computer-music/rubrics/guided-listening-presentation-rubric/">
+        Guided Listening Presentation Rubric
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/rubrics/mini-composition-1-rubric/" title="Mini Composition 1 Rubric" class="dd-item ">
+        <a href="/computer-music/rubrics/mini-composition-1-rubric/">
+        Mini Composition 1 Rubric
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/rubrics/mini-composition-2-rubric/" title="Mini Composition 2 Rubric" class="dd-item ">
+        <a href="/computer-music/rubrics/mini-composition-2-rubric/">
+        Mini Composition 2 Rubric
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/markdown-cheatsheet/" title="" class="dd-item active">
+        <a href="/computer-music/markdown-cheatsheet/">
+        
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/readme/" title="" class="dd-item ">
+        <a href="/computer-music/readme/">
+        
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/to-dos/" title="" class="dd-item ">
+        <a href="/computer-music/to-dos/">
+        
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/computer-music/unit-breakdown-draft/" title="Unit Breakdown draft " class="dd-item ">
+        <a href="/computer-music/unit-breakdown-draft/">
+        Unit Breakdown draft 
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/music-fundamentals/" title="Music Fundamentals" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/music-fundamentals/">
+          <b>1. </b>Music Fundamentals
+          
+            <i class="fa fa-check read-icon"></i>
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/music-fundamentals/general-music-unit-1/" title="General Music Unit 1" class="dd-item ">
+        <a href="/music-fundamentals/general-music-unit-1/">
+        General Music Unit 1
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/music-fundamentals/general-music-unit-2/" title="General Music Unit 2" class="dd-item ">
+        <a href="/music-fundamentals/general-music-unit-2/">
+        General Music Unit 2
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/music-fundamentals/general-music-unit-3/" title="General Music Unit 3" class="dd-item ">
+        <a href="/music-fundamentals/general-music-unit-3/">
+        General Music Unit 3
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/music-fundamentals/test/" title="test" class="dd-item ">
+        <a href="/music-fundamentals/test/">
+        test
+        <i class="fa fa-check read-icon"></i>
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+      <section id="shortcuts">
+        <h3>More</h3>
+        <ul>
+          
+              <li> 
+                  <a class="padding" href="https://github.com/matcornic/hugo-theme-learn"><i class='fa fa-fw fa-github'></i> Github repo</a>
+              </li>
+          
+        </ul>
+      </section>
+    
+
+    
+    <section id="prefooter">
+      <hr/>
+      <ul>
+       
+      
+      
+        <li><a class="padding" href="#" data-clear-history-toggle=""><i class="fa fa-fw fa-history"></i> Clear History</a></li>         
+      
+      </ul>
+    </section>
+    
+    <section id="footer">
+      
+
+  <form class="form-inline">
+    <p>
+      Reveal teacher material
+
+    </p>
+    <div>
+      <label for="password">Password</label>
+      <input type="password" class="form-control" name="password" id="password" autocomplete="current-password">
+    </div>
+    <button type="button" class="btn btn-default " onclick="validatePass()">Sign in</button>
+    <button type="button" class="btn btn-default " onclick="logout()">Logout</button>
+  </form>
+  <br>
+  <i class="fa fa-home"></i>
+  <a href="http://lsupathways.org">LSU Stem Certification Pathways </a>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+
+        <main id="body" roll="main">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                  
+                  
+                  
+                  <div id="top-github-link">
+                    <a class="github-link" title='Admin Page' href="https://sound-design.lsupathways.org/admin" target="blank">
+                      <i class="fa fa-code-fork"></i>
+                      <span id="top-github-link-text">Admin Page</span>
+                    </a>
+                  </div>
+                  
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fa fa-bars" aria-hidden></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fa fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>Educational material for LSU Programming Digital Media</a> > <a href='/computer-music/'>Computer Music</a> > 
+          
+         
+          
+         
+          
+           
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#table-of-contents">Table of Contents</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="#headers">Headers</a></li>
+</ul></li>
+<li><a href="#h1">H1</a>
+<ul>
+<li><a href="#h2">H2</a>
+<ul>
+<li><a href="#h3">H3</a>
+<ul>
+<li><a href="#h4">H4</a>
+<ul>
+<li><a href="#h5">H5</a>
+<ul>
+<li><a href="#h6">H6</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="#alt-h1">Alt-H1</a>
+<ul>
+<li><a href="#alt-h2">Alt-H2</a></li>
+<li><a href="#emphasis">Emphasis</a></li>
+<li><a href="#lists">Lists</a></li>
+<li><a href="#links">Links</a></li>
+<li><a href="#images">Images</a></li>
+<li><a href="#code-and-syntax-highlighting">Code and Syntax Highlighting</a></li>
+<li><a href="#tables">Tables</a></li>
+<li><a href="#blockquotes">Blockquotes</a></li>
+<li><a href="#inline-html">Inline HTML</a></li>
+<li><a href="#horizontal-rule">Horizontal Rule</a></li>
+<li><a href="#line-breaks">Line Breaks</a></li>
+<li><a href="#youtube-videos">YouTube Videos</a></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+
+        
+        <div id="body-inner">
+          
+            <h1></h1>
+          
+
+        
+
+
+
+
+<p>This is intended as a quick reference and showcase. For more complete info, see <a href="http://daringfireball.net/projects/markdown/">John Gruber&rsquo;s original spec</a> and the <a href="http://github.github.com/github-flavored-markdown/">Github-flavored Markdown info page</a>.</p>
+
+<p>Note that there is also a <a href="./Markdown-Here-Cheatsheet">Cheatsheet specific to Markdown Here</a> if that&rsquo;s what you&rsquo;re looking for. You can also check out <a href="./Other-Markdown-Tools">more Markdown tools</a>.</p>
+
+<h5 id="table-of-contents">Table of Contents</h5>
+
+<p><a href="#headers">Headers</a><br />
+<a href="#emphasis">Emphasis</a><br />
+<a href="#lists">Lists</a><br />
+<a href="#links">Links</a><br />
+<a href="#images">Images</a><br />
+<a href="#code">Code and Syntax Highlighting</a><br />
+<a href="#tables">Tables</a><br />
+<a href="#blockquotes">Blockquotes</a><br />
+<a href="#html">Inline HTML</a><br />
+<a href="#hr">Horizontal Rule</a><br />
+<a href="#lines">Line Breaks</a><br />
+<a href="#videos">YouTube Videos</a></p>
+
+<p><a name="headers"/></p>
+
+<h2 id="headers">Headers</h2>
+
+<pre><code class="language-no-highlight"># H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
+</code></pre>
+
+<h1 id="h1">H1</h1>
+
+<h2 id="h2">H2</h2>
+
+<h3 id="h3">H3</h3>
+
+<h4 id="h4">H4</h4>
+
+<h5 id="h5">H5</h5>
+
+<h6 id="h6">H6</h6>
+
+<p>Alternatively, for H1 and H2, an underline-ish style:</p>
+
+<h1 id="alt-h1">Alt-H1</h1>
+
+<h2 id="alt-h2">Alt-H2</h2>
+
+<p><a name="emphasis"/></p>
+
+<h2 id="emphasis">Emphasis</h2>
+
+<pre><code class="language-no-highlight">Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+</code></pre>
+
+<p>Emphasis, aka italics, with <em>asterisks</em> or <em>underscores</em>.</p>
+
+<p>Strong emphasis, aka bold, with <strong>asterisks</strong> or <strong>underscores</strong>.</p>
+
+<p>Combined emphasis with <strong>asterisks and <em>underscores</em></strong>.</p>
+
+<p>Strikethrough uses two tildes. <del>Scratch this.</del></p>
+
+<p><a name="lists"/></p>
+
+<h2 id="lists">Lists</h2>
+
+<p>(In this example, leading and trailing spaces are shown with with dots: ⋅)</p>
+
+<pre><code class="language-no-highlight">1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list.
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+</code></pre>
+
+<ol>
+<li>First ordered list item</li>
+<li>Another item
+
+<ul>
+<li>Unordered sub-list.</li>
+</ul></li>
+<li>Actual numbers don&rsquo;t matter, just that it&rsquo;s a number
+
+<ol>
+<li>Ordered sub-list</li>
+</ol></li>
+<li>And another item.</li>
+</ol>
+
+<p>You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&rsquo;ll use three here to also align the raw Markdown).</p>
+
+<p>To have a line break without a paragraph, you will need to use two trailing spaces.<br />
+   Note that this line is separate, but within the same paragraph.<br />
+   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)</p>
+
+<ul>
+<li>Unordered list can use asterisks</li>
+<li>Or minuses</li>
+<li>Or pluses</li>
+</ul>
+
+<p><a name="links"/></p>
+
+<h2 id="links">Links</h2>
+
+<p>There are two ways to create links.</p>
+
+<pre><code class="language-no-highlight">[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com &quot;Google's Homepage&quot;)
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or &lt;http://www.example.com&gt; and sometimes
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+</code></pre>
+
+<p><a href="https://www.google.com">I&rsquo;m an inline-style link</a></p>
+
+<p><a href="https://www.google.com" title="Google's Homepage">I&rsquo;m an inline-style link with title</a></p>
+
+<p><a href="https://www.mozilla.org">I&rsquo;m a reference-style link</a></p>
+
+<p><a href="../blob/master/LICENSE">I&rsquo;m a relative reference to a repository file</a></p>
+
+<p><a href="http://slashdot.org">You can use numbers for reference-style link definitions</a></p>
+
+<p>Or leave it empty and use the <a href="http://www.reddit.com">link text itself</a>.</p>
+
+<p>URLs and URLs in angle brackets will automatically get turned into links.
+<a href="http://www.example.com">http://www.example.com</a> or <a href="http://www.example.com">http://www.example.com</a> and sometimes
+example.com (but not on Github, for example).</p>
+
+<p>Some text to show that the reference links can follow later.</p>
+
+<p><a name="images"/></p>
+
+<h2 id="images">Images</h2>
+
+<pre><code class="language-no-highlight">Here's our logo (hover to see the title text):
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 1&quot;)
+
+Reference-style:
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &quot;Logo Title Text 2&quot;
+</code></pre>
+
+<p>Here&rsquo;s our logo (hover to see the title text):</p>
+
+<p>Inline-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 1" /></p>
+
+<p>Reference-style:
+<img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="alt text" title="Logo Title Text 2" /></p>
+
+<p><a name="code"/></p>
+
+<h2 id="code-and-syntax-highlighting">Code and Syntax Highlighting</h2>
+
+<p>Code blocks are part of the Markdown spec, but syntax highlighting isn&rsquo;t. However, many renderers &ndash; like Github&rsquo;s and <em>Markdown Here</em> &ndash; support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. <em>Markdown Here</em> supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the <a href="http://softwaremaniacs.org/media/soft/highlight/test.html">highlight.js demo page</a>.</p>
+
+<pre><code class="language-no-highlight">Inline `code` has `back-ticks around` it.
+</code></pre>
+
+<p>Inline <code>code</code> has <code>back-ticks around</code> it.</p>
+
+<p>Blocks of code are either fenced by lines with three back-ticks <code>```</code>, or are indented with four spaces. I recommend only using the fenced code blocks &ndash; they&rsquo;re easier and only they support syntax highlighting.</p>
+
+<pre lang="no-highlight"><code>```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+```
+No language indicated, so no syntax highlighting.
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+```
+</code></pre>
+
+<pre><code class="language-javascript">var s = &quot;JavaScript syntax highlighting&quot;;
+alert(s);
+</code></pre>
+
+<pre><code class="language-python">s = &quot;Python syntax highlighting&quot;
+print s
+</code></pre>
+
+<pre><code>No language indicated, so no syntax highlighting in Markdown Here (varies on Github).
+But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+</code></pre>
+
+<p><a name="tables"/></p>
+
+<h2 id="tables">Tables</h2>
+
+<p>Tables aren&rsquo;t part of the core Markdown spec, but they are part of GFM and <em>Markdown Here</em> supports them. They are an easy way of adding tables to your email &ndash; a task that would otherwise require copy-pasting from another application.</p>
+
+<pre><code class="language-no-highlight">Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+</code></pre>
+
+<p>Colons can be used to align columns.</p>
+
+<table>
+<thead>
+<tr>
+<th>Tables</th>
+<th align="center">Are</th>
+<th align="right">Cool</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>col 3 is</td>
+<td align="center">right-aligned</td>
+<td align="right">$1600</td>
+</tr>
+
+<tr>
+<td>col 2 is</td>
+<td align="center">centered</td>
+<td align="right">$12</td>
+</tr>
+
+<tr>
+<td>zebra stripes</td>
+<td align="center">are neat</td>
+<td align="right">$1</td>
+</tr>
+</tbody>
+</table>
+
+<p>There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don&rsquo;t need to make the raw Markdown line up prettily. You can also use inline Markdown.</p>
+
+<table>
+<thead>
+<tr>
+<th>Markdown</th>
+<th>Less</th>
+<th>Pretty</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><em>Still</em></td>
+<td><code>renders</code></td>
+<td><strong>nicely</strong></td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+<p><a name="blockquotes"/></p>
+
+<h2 id="blockquotes">Blockquotes</h2>
+
+<pre><code class="language-no-highlight">&gt; Blockquotes are very handy in email to emulate reply text.
+&gt; This line is part of the same quote.
+
+Quote break.
+
+&gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+</code></pre>
+
+<blockquote>
+<p>Blockquotes are very handy in email to emulate reply text.
+This line is part of the same quote.</p>
+</blockquote>
+
+<p>Quote break.</p>
+
+<blockquote>
+<p>This is a very long line that will still be quoted properly when it wraps. Oh boy let&rsquo;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can <em>put</em> <strong>Markdown</strong> into a blockquote.</p>
+</blockquote>
+
+<p><a name="html"/></p>
+
+<h2 id="inline-html">Inline HTML</h2>
+
+<p>You can also use raw HTML in your Markdown, and it&rsquo;ll mostly work pretty well.</p>
+
+<pre><code class="language-no-highlight">&lt;dl&gt;
+  &lt;dt&gt;Definition list&lt;/dt&gt;
+  &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
+
+  &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
+  &lt;dd&gt;Does *not* work **very** well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+</code></pre>
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+<p><a name="hr"/></p>
+
+<h2 id="horizontal-rule">Horizontal Rule</h2>
+
+<pre><code>Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
+</code></pre>
+
+<p>Three or more&hellip;</p>
+
+<hr />
+
+<p>Hyphens</p>
+
+<hr />
+
+<p>Asterisks</p>
+
+<hr />
+
+<p>Underscores</p>
+
+<p><a name="lines"/></p>
+
+<h2 id="line-breaks">Line Breaks</h2>
+
+<p>My basic recommendation for learning how line breaks work is to experiment and discover &ndash; hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You&rsquo;ll soon learn to get what you want. &ldquo;Markdown Toggle&rdquo; is your friend.</p>
+
+<p>Here are some things to try out:</p>
+
+<pre><code>Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+</code></pre>
+
+<p>Here&rsquo;s a line for us to start with.</p>
+
+<p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p>
+
+<p>This line is also begins a separate paragraph, but&hellip;<br />
+This line is only separated by a single newline, so it&rsquo;s a separate line in the <em>same paragraph</em>.</p>
+
+<p>(Technical note: <em>Markdown Here</em> uses GFM line breaks, so there&rsquo;s no need to use MD&rsquo;s two-space line breaks.)</p>
+
+<p><a name="videos"/></p>
+
+<h2 id="youtube-videos">YouTube Videos</h2>
+
+<p>They can&rsquo;t be added directly but you can add an image with a link to the video like this:</p>
+
+<pre><code class="language-no-highlight">&lt;a href=&quot;http://www.youtube.com/watch?feature=player_embedded&amp;v=YOUTUBE_VIDEO_ID_HERE
+&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg&quot;
+alt=&quot;IMAGE ALT TEXT HERE&quot; width=&quot;240&quot; height=&quot;180&quot; border=&quot;10&quot; /&gt;&lt;/a&gt;
+</code></pre>
+
+<p>Or, in pure Markdown, but losing the image sizing and border:</p>
+
+<pre><code class="language-no-highlight">[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+</code></pre>
+
+<p>Referencing a bug by #bugID in your git commit links it to the slip. For example #1.</p>
+
+<hr />
+
+<p>License: <a href="https://creativecommons.org/licenses/by/3.0/">CC-BY</a></p>
+
+
+<div id="pageFooter">
+  
+</div>
+
+<footer class=" footline" >
+	
+</footer>
+
+        
+        </div> 
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+        
+            <a class="nav nav-prev" href="/computer-music/rubrics/mini-composition-2-rubric/" title="Mini Composition 2 Rubric"> <i class="fa fa-chevron-left"></i></a>
+        
+        
+            <a class="nav nav-next" href="/computer-music/readme/" title="" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+        
+    </div>
+
+  </main>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1557873685"></script>
+    <script src="/js/perfect-scrollbar.min.js?1557873685"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1557873685"></script>
+    <script src="/js/jquery.sticky.js?1557873685"></script>
+    <script src="/js/featherlight.min.js?1557873685"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1557873685"></script>
+    <script src="/js/highlight.pack.js?1557873685"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom.71422.js?1557873685"></script>
+    <script src="/js/learn.js?1557873685"></script>
+    <script src="/js/hugo-learn.js?1557873685"></script>
+    <link href="/mermaid/mermaid.css?1557873685" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1557873685"></script>
+    <script>
+    mermaid.initialize({
+        startOnLoad:true, 
+        cloneCssStyles: false
+    });
+    </script>
+
+
+    
+    
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/url-search-params/0.10.0/url-search-params.js"></script>
+    <script src="/js/pathways.js?1557873685"></script>
+    <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+    
+    <script>var pymChild = new pym.Child({ polling: 1000 });</script>
+
+    
+  </body>
+</html>
+

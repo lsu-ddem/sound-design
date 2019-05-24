@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daw Instructions on Educational material for LSU Programming Digital Media</title>
+    <link>/computer-music/daw-instructions/</link>
+    <description>Recent content in Daw Instructions on Educational material for LSU Programming Digital Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/computer-music/daw-instructions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arrange View Arrow Tools</title>
+      <link>/computer-music/daw-instructions/arrange-view-arrow-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/arrange-view-arrow-tool/</guid>
+      <description>The mouse tools allow direct interaction with Events, using the mouse. It is helpful to remember that actions done using the mouse tools can be undone at any time, so feel free to explore them. You can click the right mouse button in any open space in the Arrange or Edit views to open a list of mouse tools and editing commands. Choose the desired tool or command by clicking it with the left mouse button.</description>
+    </item>
+    
+    <item>
+      <title>Arrange View Range Tools</title>
+      <link>/computer-music/daw-instructions/arrange-view-range-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/arrange-view-range-tool/</guid>
+      <description>The mouse tools allow direct interaction with Events, using the mouse. It is helpful to remember that actions done using the mouse tools can be undone at any time, so feel free to explore them. You can click the right mouse button in any open space in the Arrange or Edit views to open a list of mouse tools and editing commands. Choose the desired tool or command by clicking it with the left mouse button.</description>
+    </item>
+    
+    <item>
+      <title>Arrange View Split Tools</title>
+      <link>/computer-music/daw-instructions/arrange-view-split-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/arrange-view-split-tool/</guid>
+      <description>Arrange View Mouse Tools The mouse tools allow direct interaction with Events, using the mouse. It is helpful to remember that actions done using the mouse tools can be undone at any time, so feel free to explore them. You can click the right mouse button in any open space in the Arrange or Edit views to open a list of mouse tools and editing commands. Choose the desired tool or command by clicking it with the left mouse button.</description>
+    </item>
+    
+    <item>
+      <title>Audio Event Transpose and Tune</title>
+      <link>/computer-music/daw-instructions/audio-event-transpose-and-tune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/audio-event-transpose-and-tune/</guid>
+      <description>The ability to transpose and fine-tune audio adds a lot of flexibility when working with audio files. For instance, if you have a keyboard loop collection in which every loop is in the key of C, being able to transpose these loops to any other key opens up many possibilities.
+In Studio One, transposing and tuning are a part of the same set of advanced algorithms as timestretching, so the quality is extremely high.</description>
+    </item>
+    
+    <item>
+      <title>Basic Submission Instructions</title>
+      <link>/computer-music/daw-instructions/basic-submission-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/basic-submission-instructions/</guid>
+      <description>This document provides basic instructions for DAW media management and submission procedures specific to our software and course management utilities.
+The File Structure of a Studio One 3 Song Studio One 3 can create new Songs and new Projects.
+This nomenclature varies from one DAW to the next.
+Studio One 3 Projects can be thought of as mastering projects - a collection of multiple finished pieces that might form the basis for a full multi-song album or a feature film soundtrack.</description>
+    </item>
+    
+    <item>
+      <title>Browsing for Instruments</title>
+      <link>/computer-music/daw-instructions/browsing-for-instruments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/browsing-for-instruments/</guid>
+      <description>Click on the Instruments tab in the Browser or press [F6] on the keyboard to browse your virtual instruments.
+Sorting the Instruments View The list of virtual instruments can be sorted to help you find what you are looking for. Click on the Sort by options at the top of the Browser to sort by one of the following categories:
+ Flat Sorts the instruments in alphabetical order in a continuous list.</description>
+    </item>
+    
+    <item>
+      <title>Crossfades</title>
+      <link>/computer-music/daw-instructions/crossfades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/crossfades/</guid>
+      <description>Crossfades are implementations of fades that smooth transitions between touching or overlapping audio regions. To make a crossfade, select one of two (or more) overlapping regions and press [X].
+Once the crossfade is in place, you can adjust the shape and width by dragging the boundaries of the regions and/or the fade handles with the Arrow Tool.
+Generally, shorter crossfades work well for percussive material (e.g. drums, short guitar strums) while longer crossfades work on more resonant or sustained material (e.</description>
+    </item>
+    
+    <item>
+      <title>Cut Copy and Paste</title>
+      <link>/computer-music/daw-instructions/copying-and-pasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/copying-and-pasting/</guid>
+      <description>As with most software applications, Studio One supports cut, copy, and paste actions. Once you have selected an Event or a range of Events, you can perform these actions:
+ Cut Press [Ctrl]/[Cmd]+[X] on the keyboard to cut the current selection. Copy Press [Ctrl]/[Cmd]+[C] on the keyboard to copy the current selection. Paste Once a selection is cut or copied, press [Ctrl]/[Cmd]+[P] on the keyboard to paste the selection. The Events are pasted on the selected Track, at the current playback cursor position.</description>
+    </item>
+    
+    <item>
+      <title>Duplicating</title>
+      <link>/computer-music/daw-instructions/duplicating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/duplicating/</guid>
+      <description>The Duplicate action essentially combines the Copy and Paste actions and intelligently places the pasted selection based on the musical timing of the selection in the Song. Choose Duplicate in the Edit menu or press [D] on the keyboard to duplicate the current selection. The duplicated Event is always placed after the original Event, and it is automatically selected once duplicated. As with the other editing actions, Duplicate can apply to any number of currently selected Events.</description>
+    </item>
+    
+    <item>
+      <title>Impact</title>
+      <link>/computer-music/daw-instructions/impact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/impact/</guid>
+      <description>Impact features a grid of pads into which samples are loaded and played back independently, as with many popular hardware drum-sample players. Each pad has its own pitch, amplifier, and filter controls with accompanying envelopes. There are multiple stereo and mono outputs for each pad, making sophisticated output busing simple.
+Interface Impact is arranged as a 4x4 grid of pads, with controls for each pad. Below each pad are Solo and Mute controls, as well as an Output Channel assignment.</description>
+    </item>
+    
+    <item>
+      <title>Import Video</title>
+      <link>/computer-music/daw-instructions/import-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/import-video/</guid>
+      <description>The simplest way to import a video file is to drag-and-drop it from the File Browser into the arrangement. Supported video files appear in the browser with a Film Strip icon. You can also use the Import Video menu in the Video Player to import any supported video file.
+Drag a video file from the File Browser to the arrangement to import the video file to the Video Player. When doing this, note that the position to which you drag the video is used to set the offset for video playback.</description>
+    </item>
+    
+    <item>
+      <title>Loops Tab</title>
+      <link>/computer-music/daw-instructions/loops-tab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/loops-tab/</guid>
+      <description>The Loops tab lets you locate and explore audio and music loop content made for Studio One in the Browser, with intelligent sorting to assist you in finding the right loops quickly and easily. Click on the Loops tab in the Browser or press [F8] on the keyboard to browse through any installed loop content.
+Sorting Loops The Loops tab offers a three-tiered sorting system. At the top of the Loops tab window, you&amp;rsquo;ll see Sort by&amp;hellip; followed by three category selectors.</description>
+    </item>
+    
+    <item>
+      <title>Manual Timestretching</title>
+      <link>/computer-music/daw-instructions/manual-timestretching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/manual-timestretching/</guid>
+      <description>With manual timestretching, you can stretch an Audio Event independently of the Song tempo or audio file tempo.
+To manually stretch an Audio Event with the Arrow tool, float the mouse cursor to the edge of the target Audio Event and hold [Alt]/[Option] on the keyboard. The Timestretch tool appears, allowing you to click on the edge of the Event and drag left or right to timestretch the Event, making it shorter or longer In this case, the length of the Event changes, using the Speedup factor, but the pitch of the audio the Event contains remains the same.</description>
+    </item>
+    
+    <item>
+      <title>Metronome Control</title>
+      <link>/computer-music/daw-instructions/metronome-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/metronome-control/</guid>
+      <description>A metronome makes audible clicks or other sounds that correspond to beats at a selectable tempo, providing the musicians with a tempo reference while recording. This is especially useful when recording drums or other rhythm-intensive tracks, as the editing and arranging processes are made much easier when the recorded audio lines up with musical bars and beats.
+In Studio One, the metronome can be engaged and disengaged both globally and for each hardware output in the Console, including the Main Out and any Sub Outs.</description>
+    </item>
+    
+    <item>
+      <title>Mixing Down</title>
+      <link>/computer-music/daw-instructions/mixing-down/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/mixing-down/</guid>
+      <description>In most cases, you’ll record multiple Tracks in a Song, but you&amp;rsquo;ll need to mix these Tracks to a stereo format for distribution on CD, DVD, or the Web. With a DAW such as Studio One, this simply means saving your mix to a stereo file.
+Create a Mixdown To create a mix of your Song in Studio One, navigate to Song/Export Mixdown or press [Ctrl]/[Cmd]+[E] on the keyboard to open the Export Mixdown menu.</description>
+    </item>
+    
+    <item>
+      <title>Mojito</title>
+      <link>/computer-music/daw-instructions/mojito/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/mojito/</guid>
+      <description>Mojito is a simple, monophonic, subtractive synthesizer with effects that is capable of generating a wide range of sounds. It models a classic analog synthesizer and features a low-aliasing oscillator and a 24 dB filter emulation. Mojito can generate killer bass sounds, lead sounds, and special effects.
+Interface Mojito is organized into Oscillator (OSC), Amplifier (AMP), Filter (FLT), and FX sections, with easy-to-use, yet powerful controls.
+Oscillator Mojito’s Oscillator section is on the upper left of the plug-in window.</description>
+    </item>
+    
+    <item>
+      <title>Naming Tracks</title>
+      <link>/computer-music/daw-instructions/naming-tracks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/naming-tracks/</guid>
+      <description>The name for a track can be set immediately when the track is created.
+If the track was automatically named (for example, when a track is created by dragging-and-dropping an instrument or audio file), it can be renamed by double-clicking on the name in the Track Inspector or Track Column to the left of the Arrange Window.
+Track Inspector:
+Track Column:
+Images reproduced from the official Studio One Version 3.3.0 Reference Manual</description>
+    </item>
+    
+    <item>
+      <title>Notes on DAW instructions</title>
+      <link>/computer-music/daw-instructions/notes-on-daw-instructions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/notes-on-daw-instructions/</guid>
+      <description>Notes on DAW Instructions Since all modern mainstream DAW software comes with sufficient documentation from the manufacturer, we have taken an approach that utilizes as much content from the official manuals as possible. This documentation can be supplemented as needed with additional online content, visual aids, in-class demonstrations, and more at the instructor&amp;rsquo;s discretion.
+For this example course content based on PreSonus&amp;rsquo; Studio One 3, small sections of the Studio One 3 Reference Manual have been duplicated, with proper attribution, in separate Markdown files.</description>
+    </item>
+    
+    <item>
+      <title>Reversing Audio Event</title>
+      <link>/computer-music/daw-instructions/reversing-audio-event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/reversing-audio-event/</guid>
+      <description>There are two ways to easily reverse the content in an Audio Event:
+ Right-click [Ctrl+click on some Macs] on an Audio Event. In the menu that appears, hover over &amp;ldquo;Audio: Operations specific to audio events&amp;rdquo;, then select &amp;ldquo;Reverse Audio&amp;rdquo;. With the desired Audio Event already selected, use the key command [Cmd+R] on Mac, [Ctrl+R] on Windows.  </description>
+    </item>
+    
+    <item>
+      <title>Set up MIDI Keyboards</title>
+      <link>/computer-music/daw-instructions/setup-midi-keyboards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/setup-midi-keyboards/</guid>
+      <description>A MIDI keyboard controller is a hardware MIDI device that is generally used for playing and controlling other MIDI devices, virtual software instruments, and software parameters. In Studio One, these devices are referred to as Keyboards. Before recording a performance with a Keyboard, the MIDI keyboard controller must first be set up in Studio One. Once a Keyboard is set up, it is available at all times for use in Studio One.</description>
+    </item>
+    
+    <item>
+      <title>Strip Silence</title>
+      <link>/computer-music/daw-instructions/strip-silence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/strip-silence/</guid>
+      <description>It is quite common that, as the result of continuous recording, some Audio Events may have gaps of silence or relatively low levels between performances. It may be helpful in these cases to remove the gaps and only keep the desired sections of the recorded Event. Studio One&amp;rsquo;s Strip Silence function, controlled from the Strip Silence panel, is designed to handle this task.
+Open the Strip Silence panel by clicking on the Strip Silence button in the toolbar, or select Strip Silence from the View/Additional Views menu.</description>
+    </item>
+    
+    <item>
+      <title>The Console</title>
+      <link>/computer-music/daw-instructions/console-intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/console-intro/</guid>
+      <description>Mixing in Studio One is primarily done in the Console. Open the Console by clicking on the [Mix] button or by pressing [F3] on the keyboard.
+Each channel of audio in your Song is represented by a Channel in the Console. Audio Tracks in the Arrange view are directly represented by Audio Channels in the Console, whereas Instrument Tracks have no direct representation in the Console. Instead, Instrument Channels represent the audio output of virtual instruments.</description>
+    </item>
+    
+    <item>
+      <title>The Grid</title>
+      <link>/computer-music/daw-instructions/the-grid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/the-grid/</guid>
+      <description>The Arrangement grid is comprised of the ticks in the timeline and the vertical lines extending from those ticks through the background of the Arrangement. This grid uses the Timebase setting as the basis for its display. The Timebase settings are Seconds, Samples, Bars, and Frames, and they determine the behavior of Event and tool snapping. The Timebase can be changed at any time, without directly affecting the arrangement.</description>
+    </item>
+    
+    <item>
+      <title>Volume and Pan Automation</title>
+      <link>/computer-music/daw-instructions/volume-and-pan-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-music/daw-instructions/volume-and-pan-automation/</guid>
+      <description>What is Automation? Automation lets you record changes in parameter values; thereafter, Studio One can perform these value changes for you. For instance, you can record level changes in a Track by capturing your fader movements during playback; from then on, Studio One can perform the level changes.
+Before the advent of automation, mixing was very much a performance. Sometimes it took many pairs of hands on the mixing console to accomplish all of the fader, mute, solo, and other movements to achieve a mix.</description>
+    </item>
+    
+  </channel>
+</rss>

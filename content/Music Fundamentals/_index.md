@@ -1,5 +1,5 @@
 ---
-title: "Music Fundamentals"
+title: "Sound Design"
 weight: 10
 chapter: true
 pre: "<b>1. </b>"
