@@ -11,7 +11,7 @@ weight: 10
 #### Prerequisites
 
 
-* Music Fundamentals Assignment 2
+* Music Fundamentals Assignment 1
 * Basic understanding of solfege.
 * Basic understanding of transposition.
 
@@ -33,7 +33,7 @@ Review the following document from our course materials:
 #### Instructions
 
 1. Exchange scores with a classmate from assignment 1 without revealing the title of the piece.  You will later have to guess the name of this song.
-2. Open this score in a notation editor such as https://www.noteflight.com/.
+2. Open this score in a notation editor such as https://www.noteflight.com/
 3. Learn to perform this melody with a midi controler by reading and listening to the score you have created.  Be ready to perform this melody for your classmates.
 4. In a seperate text document identify the key of the song and list all the pitches in order of occurance as solfege syllables.
 5. Guess the name of this song.
