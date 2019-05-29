@@ -1,6 +1,6 @@
 ---
 title: "Rubrics"
-weight: 10
+weight: 8
 chapter: true
 pre: "<b>8. </b>"
 ---

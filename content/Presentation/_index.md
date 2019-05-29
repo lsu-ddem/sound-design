@@ -1,6 +1,6 @@
 ---
 title: "Presentations"
-weight: 10
+weight: 6
 chapter: true
 pre: "<b>6. </b>"
 ---

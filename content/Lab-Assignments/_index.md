@@ -1,6 +1,6 @@
 ---
 title: "Lab Assignments"
-weight: 11
+weight: 5
 chapter: true
 pre: "<b>5. </b>"
 ---
