@@ -1,6 +1,6 @@
 ---
 title: "Music Fundamental Assignments"
-weight: 11
+weight: 2
 chapter: true
 pre: "<b>2. </b>"
 ---

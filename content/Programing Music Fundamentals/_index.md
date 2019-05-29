@@ -1,6 +1,6 @@
 ---
 title: "Programing Music Fundamentals"
-weight: 10
+weight: 3
 chapter: true
 pre: "<b>3. </b>"
 ---
