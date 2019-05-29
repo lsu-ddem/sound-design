@@ -1,8 +1,8 @@
 ---
-title: Music Fundamentals Assignment 1
+title: Fundamentals Assignment 1
 weight: 10
 ---
-<!-- # Music Fundamentals Assignment 1 -->
+<!-- # Fundamentals Assignment 1 -->
 
 ## Learning Melody and Creating a Score From a MIDI File
 
@@ -25,13 +25,13 @@ Review the following document from our course materials:
 
 * Learn to read famillar melodies in treble cleff.
 * Introduction to importing MIDI files.
-* keyboard performance and orientation development.
+* Keyboard performance and orientation development.
 
 - - -
 
 #### Instructions
 
-1. Search online and download a MIDI file for a song that you would like to learn to perform.
+1. Search online and download a MIDI file for a song that you would like to learn to perform. (this song should have a recognisable melody)
 2. Open your a notation editor such as https://www.noteflight.com/, create a new socre.
 3. Import the downloaded MIDI file.
 4. Edit the MIDI file my deleating accompaniment so that only the melody remains.
