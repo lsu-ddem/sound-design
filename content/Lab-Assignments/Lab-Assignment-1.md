@@ -1,5 +1,6 @@
 ---
 title: Lab Assignment 1
+weight: 10
 ---
 <!-- # Lab Assignment 1 -->
 
