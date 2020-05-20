@@ -12,23 +12,22 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-
-	- name: "music-fundamentals"
+		  - {label: "Body", name: "body", widget: "markdown"}
+  - name: "music-fundamentals"
     label: "Music Fundamentals"
     folder: "content/Music-Fundamentals" 
     create: true 
     fields: 
       - {label: "Title", name: "title", widget: "string"}
-			- {label: "Body", name: "body", widget: "markdown"}
-	- name: "music-fundamentals-assignments"
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "music-fundamentals-assignments"
     label: "Music Fundamentals Assignments"
     folder: "content/Music-Fundamentals-Assignments" 
     create: true 
     fields: 
       - {label: "Title", name: "title", widget: "string"}
-			- {label: "Body", name: "body", widget: "markdown"}
-	- name: "programming-music-fundamentals"
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "programming-music-fundamentals"
     label: "Programming Music Fundamentals"
     folder: "content/Programming-Music-Fundamentals" 
     create: true 
