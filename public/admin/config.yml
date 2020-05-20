@@ -14,7 +14,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 	# Other content 
-	 - name: "music-fundamentals"
+	- name: "music-fundamentals"
     label: "Music Fundamentals"
     folder: "content/Music-Fundamentals" 
     create: true 
@@ -22,7 +22,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
 			- {label: "Body", name: "body", widget: "markdown"}
 			
-	 - name: "music-fundamentals-assignments"
+	- name: "music-fundamentals-assignments"
     label: "Music Fundamentals Assignments"
     folder: "content/Music-Fundamentals-Assignments" 
     create: true 
@@ -30,7 +30,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
 			- {label: "Body", name: "body", widget: "markdown"}
 			
-	 - name: "programming-music-fundamentals"
+	- name: "programming-music-fundamentals"
     label: "Programming Music Fundamentals"
     folder: "content/Programming-Music-Fundamentals" 
     create: true 
