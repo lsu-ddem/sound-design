@@ -22,14 +22,14 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "music-fundamentals-assignments"
     label: "Music Fundamentals Assignments"
-    folder: "content/Music-Fundamentals-Assignments"
+    folder: "content/Music-Fundamentals/Assignments"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "programming-music-fundamentals"
     label: "Programming Music Fundamentals"
-    folder: "content/Programming-Music-Fundamentals"
+    folder: "content/Music-Fundamentals/Fundamentals"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
@@ -37,35 +37,35 @@ collections:
   # Daw Instructions
   - name: "daw-instructions"
     label: "Daw Instructions"
-    folder: "content/DAW-instructions"
+    folder: "content/Sound-design/DAW-instructions"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "lab-assignments"
     label: "Lab Assignments"
-    folder: "content/Lab-Assignments"
+    folder: "content/Sound-design/Lab-Assignments"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "presentations"
     label: "Presentations"
-    folder: "content/Presentations"
+    folder: "content/Sound-design/Presentations"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "projects"
     label: "Projects"
-    folder: "content/Projects"
+    folder: "content/Sound-design/Projects"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "rubrics"
     label: "Rubrics"
-    folder: "content/Rubrics"
+    folder: "content/Sound-design/Rubrics"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }

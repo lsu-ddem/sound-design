@@ -4,7 +4,7 @@ weight: 10
 ---
 <!-- # Fundamentals Assignment 2 -->
 
-## Melodic Trasposition
+## Melodic Transposition
 
 - - -
 
@@ -17,14 +17,14 @@ weight: 10
 
 Review the following document from our course materials:
 
-* \[Basic Submission Instructions]({{% relref "../DAW-instructions/basic-submission-instructions.md" %}})
+* \[Basic Submission Instructions]({{% relref "../../../../Sound-design/DAW-instructions/basic-submission-instructions.md" %}})
 
 - - -
 
 #### Objectives
 
-* Learn to identify melodies using solfege in treble cleff.
-* Learn to transpose melodies in treble cleff amonge three keys (C,F,G).
+* Learn to identify melodies using solfege in treble clef.
+* Learn to transpose melodies in treble clef among three keys (C,F,G).
 * Keyboard performance and orientation development.
 * Aural melodic recognition development.
 
