@@ -3,7 +3,8 @@ title: "LSU - MUS 2745 Syllabus"
 weight: 10
 ---
 
-<!-- # LSU — MUS 2745 -->
+<!-- # LSU — MUS 2745 a change-->
+
 
 ## Introduction to Computer Music
 
